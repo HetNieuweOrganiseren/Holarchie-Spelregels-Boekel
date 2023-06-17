@@ -9,7 +9,7 @@ Auteur; cirkel organisatie Ecodorp Boekel 2022
 
 # Inhoud
 
-## Voorwoord	3
+## Voorwoord
 
 ## Artikel 1: De Organisatiestructuur
 
@@ -278,204 +278,240 @@ Een werkafspraak mag een alternatief proces beschrijven voor de Werkoverleggen d
 # Artikel 4: Gedistribueerde autoriteit
 Als Rol-Lead ben je bevoegd om elke actie of elk besluit te nemen om het doel of verantwoordelijkheden van je rol te vervullen, mits je daarbij geen van de in deze spelregels beschreven regels overtreedt. Bij het prioriteren en kiezen van je mogelijke acties mag je zelf de relatieve waarde van elke actie voor de organisatie inschatten.
 
-4.1 Beperkingen van bevoegdheid
+## 4.1 Beperkingen van bevoegdheid
 Als een Rol-Lead moet jij je houden aan de volgende beperkingen van je bevoegdheid.
 
-4.1.1 Overtreed geen werkafspraken
+### 4.1.1 Overtreed geen werkafspraken
 In het handelen vanuit een rol mag je geen werkafspraken van de rol zelf of van een van de bredere cirkels van de rol overtreden.
 
-4.1.2 Vraag toestemming voordat je invloed op een domein uitoefent
+### 4.1.2 Vraag toestemming voordat je invloed op een domein uitoefent
 In het handelen vanuit een rol ben je bevoegd om invloed uit te oefenen op de domeinen van die rol en ze te beheren.
+
 Ook mag je de domeinen beïnvloeden van de cirkel(s) waar jouw rol in zit. 
+
 Maar als je gelooft dat jouw impact op een domein zo groot is dat het moeilijk terug te draaien is of veel kost moet je toestemming vragen aan de domein-eigenaar.
+
 Wanneer je toestemming nodig hebt om invloed uit te oefenen op een domein, dan mag je deze vragen aan degene die het domein beheert. Je mag ook toestemming krijgen door je intentie om een bepaalde actie te nemen aan te kondigen en iedereen met een relevant domein uit te nodigen om bezwaar te maken. Je moet vervolgens een redelijke tijd wachten om ruimte te geven voor reacties. Als niemand gedurende die tijd bezwaar maakt dan heb je toestemming om invloed uit te oefenen op de domeinen van die rollen in de organisatie waarbij jij je intentie hebt aangekondigd. Je mag daarbij aannemen dat een geschreven aankondiging iedereen bereikt die normaliter berichten leest via het kanaal dat je hebt afgesproken. De toestemming die je op deze manier krijgt is alleen geldig voor de specifieke actie die je hebt aangekondigd.
+
 Dit proces mag gewijzigd of beperkt worden door een werkafspraak.
 
-4.2 Bevoegdheid om te Interpreteren
+## 4.2 Bevoegdheid om te Interpreteren
 Als lid mag je je gezond verstand gebruiken om deze spelregels en alles wat daar uit voortvloeit te interpreteren. Je mag verder bepalen hoe dit van toepassing is op specifieke situaties en handelen op basis van je interpretaties. Je moet echter alle besturing interpreteren in de context van het doel en verantwoordelijkheden van de cirkel waarbinnen deze besturing valt, en ook in lijn met alle officiële interpretaties van die cirkel of van een bredere cirkel daarvan. Je eigen interpretaties mogen niet in strijd zijn met die context of officiële interpretaties.
 
-4.2.1 Interpretatie conflicten
+### 4.2.1 Interpretatie conflicten
 Het kan voorkomen dat jouw interpretatie van deze spelregels of van de besturing van de Organisatie afwijkt van die van een ander lid. In dat geval mogen beide partijen de Secretaris van een betrokken cirkel vragen om een uitspraak te doen over welke interpretatie leidend is. De Secretaris is dan verantwoordelijk om op verzoek de spelregels en alles wat daaruit voortvloeit te interpreteren. Als een Secretaris een uitspraak heeft gedaan moet iedereen zich daar aan houden, totdat de betreffende tekst of context verandert.
+
 Als een Secretaris een uitspraak heeft gedaan, kan hij of zij deze interpretatie en de bijbehorende onderbouwing vastleggen. In dat geval moeten de Secretaris van de cirkel en van alle sub-cirkels bij toekomstige uitspraken hun best doen om deze onderbouwing te volgen. Een Secretaris mag hier echter van afwijken als dit logisch is door nieuwe, overtuigende omstandigheden.
+
 Je mag in beroep gaan over de interpretatie van een Secretaris bij de Secretaris van een van de bredere cirkels. De Secretaris van een bredere cirkel mag de interpretatie van de Secretaris van een sub-cirkel verwerpen.
 
-4.2.2 Schrappen van ongeldige besturing
+### 4.2.2 Schrappen van ongeldige besturing
 Elk lid mag de Secretaris van een cirkel vragen om een uitspraak te doen over de geldigheid van bepaalde besturing binnen die cirkel of van een sub-cirkel daarvan. Als de Secretaris vaststelt dat de besturing in strijd is met de in deze spelregels beschreven regels, dan moet hij of zij deze schrappen uit de besturing van de cirkel. Daarna moet de Secretaris tijdig aan alle leden die rollen in de cirkel vervullen communiceren wat hij of zij geschrapt heeft en waarom.
 
+## 4.3 Individueel initiatief
+Als een lid ben je in sommige gevallen bevoegd om **“individueel initiatief”** te nemen, door buiten de bevoegdheid van je rollen te handelen of de in deze spelregels beschreven regels te overtreden.
 
-4.3 Individueel initiatief
-Als een lid ben je in sommige gevallen bevoegd om “individueel initiatief” te nemen, door buiten de bevoegdheid van je rollen te handelen of de in deze spelregels beschreven regels te overtreden.
-
-4.3.1 Toegestane situaties
+### 4.3.1 Toegestane situaties
 Je mag alleen individueel initiatief nemen wanneer al het volgende waar is:
-Je handelt te goeder trouw om het doel of verantwoordelijkheden van een rol in de organisatie te vervullen.
-Je schat in dat jouw handelen voor de organisatie meer spanning oplost of voorkomt dan het waarschijnlijk veroorzaakt.
-Je handelen verplicht de organisatie niet tot een besteding die hoger is dan waar je al toe bevoegd bent.
-Indien je handelen in strijd is met werkafspraken of domeinen: Je schat in dat er veel waarde verloren zou gaan door te wachten op toestemming of gewijzigde besturing.
+1. Je handelt te goeder trouw om het doel of verantwoordelijkheden van een rol in de organisatie te vervullen.
+2. Je schat in dat jouw handelen voor de organisatie meer spanning oplost of voorkomt dan het waarschijnlijk veroorzaakt.
+3. Je handelen verplicht de organisatie niet tot een besteding die hoger is dan waar je al toe bevoegd bent.
+4. Indien je handelen in strijd is met werkafspraken of domeinen: Je schat in dat er veel waarde verloren zou gaan door te wachten op toestemming of gewijzigde besturing.
 
-4.3.2 Communicatie & herstel
+### 4.3.2 Communicatie & herstel
 Bij het nemen van Individueel Initiatief moet je je handelen uitleggen aan elke Rol-Lead die er naar jouw inschatting wezenlijk door geraakt wordt. Als zij daartoe verzoeken, moet je actie ondernemen om eventuele spanningen die door jouw individuele initiatief zijn veroorzaakt te helpen oplossen. Je moet op hun verzoek verder nalaten om in de toekomst vergelijkbaar individueel initiatief te nemen.
+
 Je moet de hierboven beschreven communicatie- en herstelplicht prioriteren boven je normale werkzaamheden. Een Cirkel-Lead van een cirkel waar alle door jouw handelen geraakte rollen binnen vallen mag deze prioriteit echter wijzigen.
 
-Artikel 5: Het besturings-proces
+# Artikel 5: Het besturings-proces
 Het wijzigen van de besturing van een cirkel vereist de toepassing van het hier beschreven besturingsproces.
 
-5.1 Besturing-deelnemers
+## 5.1 Besturing-deelnemers
 Elke cirkel heeft een groep “cirkelleden” die zijn rollen mogen vertegenwoordigen in het besturingsproces van die cirkel.
+
 De deelnemers van een cirkel bestaan uit de leden die de Cirkel-Lead-rol vervullen, plus ieder lid die Rol-Lead is van een rol die in de cirkel fungeert. Als een rol meer Rol-Leads heeft, dan mag een cirkel een werkafspraak aannemen om het aantal cirkel leden dat die rol vertegenwoordigt in het besturingsproces te beperken.
 
-5.1.1 Cirkel-Rep
-Elk lid van een cirkel mag op elk moment verzoeken om een verkiezing te houden voor het kiezen of vervangen van de “Cirkel-Rep”, om de cirkel te helpen vertegenwoordigen in de bredere cirkels. De verkozen Cirkel-Rep vervult de Cirkel-Rep-rol in de cirkel, met als doel “spanningen die relevant zijn om in een bredere cirkel te adresseren zijn geagendeerd en opgelost” en met de volgende verantwoordelijkheden:
-proberen om de spanningen van Rol-Leads binnen de cirkel te begrijpen
-beoordelen welke spanningen geschikt zijn om te behandelen in een bredere cirkel
-agenderen en oplossen van spanningen in een bredere cirkel om belemmeringen voor de cirkel weg te nemen
+### 5.1.1 Cirkel-Rep
+Elk lid van een cirkel mag op elk moment verzoeken om een verkiezing te houden voor het kiezen of vervangen van de **“Cirkel-Rep”**, om de cirkel te helpen vertegenwoordigen in de bredere cirkels. De verkozen Cirkel-Rep vervult de Cirkel-Rep-rol in de cirkel, met als doel “spanningen die relevant zijn om in een bredere cirkel te adresseren zijn geagendeerd en opgelost” en met de volgende verantwoordelijkheden:
+1. proberen om de spanningen van Rol-Leads binnen de cirkel te begrijpen
+2. beoordelen welke spanningen geschikt zijn om te behandelen in een bredere cirkel
+3. agenderen en oplossen van spanningen in een bredere cirkel om belemmeringen voor de cirkel weg te nemen
+
 De cirkel moet het in deze spelregels beschreven verkiezingsproces gebruiken om een cirkel Rep te kiezen, tenzij een werkafspraak een alternatief mechanisme beschrijft. Alleen de leden van een cirkel zijn verkiesbaar als de Cirkel-Rep van die cirkel. Zij die als Cirkel-Lead voor de cirkel fungeren, mogen niet ook als Cirkel-Rep fungeren. Er mag slechts één persoon tegelijk fungeren als Cirkel-Rep, tenzij een werkafspraak van een bredere cirkel er meer toestaat.
+
 De gekozen Cirkel-Rep kent dezelfde vertegenwoordigende bevoegdheid als een Cirkel-Lead. De bevoegdheden van de Cirkel-Rep binnen de bredere cirkel mogen in een werkafspraak beperkt worden, op voorwaarde dat de Cirkel-Rep toegang heeft tot vergelijkbare vertegenwoordiging binnen de bredere cirkel.
+
 Een cirkel mag verantwoordelijkheden of domeinen toevoegen aan zijn eigen Cirkel-Rep-rol en mag deze toevoegingen ook weer wijzigen of verwijderen. Cirkels mogen de in deze spelregels vastgelegde doel of verantwoordelijkheden niet wijzigen of verwijderen.
 
-5.1.2 Facilitator & Secretaris
+### 5.1.2 Facilitator & Secretaris
 De Facilitator van een cirkel is verantwoordelijk voor het faciliteren van het besturingsproces van die cirkel.
+
 De Secretaris van een cirkel is verantwoordelijk voor het vastleggen en delen van de uitkomsten van het besturingsproces in het besturings document en heeft de vastlegging van de besturing van die cirkel als domein.
+
 Elk lid van een cirkel mag op elk moment verzoeken om een verkiezing te houden voor het kiezen of vervangen van de Facilitator of Secretaris van de cirkel.
-Een Facilitator of Secretaris kan uitsluitend gekozen worden door het Verkiezingsproces artikel 5.3.5
+Een Facilitator of Secretaris kan uitsluitend gekozen worden door het Verkiezingsproces *artikel 5.3.5*
+
 Normaliter zijn alleen de cirkel-leden verkiesbaar voor deze rollen, maar een werkafspraak van de cirkel of van een bredere cirkel mag verkiesbare kandidaten toevoegen of beperken.
 
-
-5.2 Speelruimte waarin je kunt besturen.
+## 5.2 Speelruimte waarin je kunt besturen.
 Binnen het besturingsproces van een cirkel mogen de leden:
-de rollen van de cirkel vastleggen, wijzigen of verwijderen.
-de werkafspraken van de cirkel vastleggen, wijzigen of verwijderen.
-de rollen of werkafspraken van de cirkel verplaatsen naar een sub-cirkel of elke sub-cirkel daarvan, mits deze onder het doel of verantwoordelijkheden van de betreffende sub-cirkel vallen.
-rollen of werkafspraken van een sub-cirkel of elke sub-cirkel daarvan verplaatsen naar de cirkel, mits deze niet langer relevant zijn voor het doel of verantwoordelijkheden van de betreffende sub-cirkel.
-verkiezingen houden voor een verkozen rol binnen de cirkel.
+1. de rollen van de cirkel vastleggen, wijzigen of verwijderen.
+2. de werkafspraken van de cirkel vastleggen, wijzigen of verwijderen.
+3. de rollen of werkafspraken van de cirkel verplaatsen naar een sub-cirkel of elke sub-cirkel daarvan, mits deze onder het doel of verantwoordelijkheden van de betreffende sub-cirkel vallen.
+4. rollen of werkafspraken van een sub-cirkel of elke sub-cirkel daarvan verplaatsen naar de cirkel, mits deze niet langer relevant zijn voor het doel of verantwoordelijkheden van de betreffende sub-cirkel.
+5. verkiezingen houden voor een verkozen rol binnen de cirkel.
+
 Geen enkel ander besluit is een geldige uitkomst van het besturingsproces van een cirkel.
 
-
-5.2.1 Toepassing van Werkafspraken
+### 5.2.1 Toepassing van Werkafspraken
 Een werkafspraak mag alleen verwijzen naar een of meer van het volgende:
-het beperken van de bevoegdheid van een of meer van de rollen binnen de cirkel.
-het toekennen van een bevoegdheid waarover de cirkel of Cirkel-Lead beschikt aan een of meer rollen.
-het toekennen van de bevoegdheid om controle of invloed uit te oefenen op; een domein van de cirkel, aan mensen of rollen  die daar anders niet toe bevoegd zouden zijn, of het beperken van hoe ze dat mogen doen als ze daar al toe bevoegd zijn.
-het wijzigen van een standaardregel of proces in deze spelregels, als die wijziging expliciet is toegestaan.
+1. het beperken van de bevoegdheid van een of meer van de rollen binnen de cirkel.
+2. het toekennen van een bevoegdheid waarover de cirkel of Cirkel-Lead beschikt aan een of meer rollen.
+3. het toekennen van de bevoegdheid om controle of invloed uit te oefenen op; een domein van de cirkel, aan mensen of rollen  die daar anders niet toe bevoegd zouden zijn, of het beperken van hoe ze dat mogen doen als ze daar al toe bevoegd zijn.
+4. het wijzigen van een standaardregel of proces in deze spelregels, als die wijziging expliciet is toegestaan.
+
 Een werkafspraak die bevoegdheid toekent of beperkt geldt in alle sub-cirkels en alle sub-cirkels daarvan, tenzij anders bepaald.
+
 Een werkafspraak die een standaardregel of -proces in deze spelregels wijzigt, geldt alleen in de cirkel die de werkafspraak vastlegt, of indien expliciet benoemd in alle sub-cirkels en alle sub-cirkels daarvan. In het laatste geval mag een sub-cirkel alsnog afwijken van de werkafspraak door een eigen werkafspraak vast te leggen, tenzij expliciet verboden in de oorspronkelijke werkafspraak.
 
-5.3 Wijzigen van besturing
-Elk lid van een cirkel mag het besturingsproces opstarten door een wijziging van de besturing voor te stellen. Om dat te doen moet de indiener eerst een schriftelijk voorstel delen met alle andere cirkel leden, via een door de Secretaris goedgekeurd communicatiekanaal. De andere cirkel leden mogen vervolgens verhelderende vragen stellen, reacties geven en zorgen delen over het aannemen van het voorstel. Elke zorg is een “bezwaar” als het voldoet aan de hieronder beschreven criteria, en de persoon die het deelt is de “bezwaarmaker”.
+## 5.3 Wijzigen van besturing
+Elk lid van een cirkel mag het besturingsproces opstarten door een wijziging van de besturing voor te stellen. Om dat te doen moet de indiener eerst een schriftelijk voorstel delen met alle andere cirkel leden, via een door de Secretaris goedgekeurd communicatiekanaal. De andere cirkel leden mogen vervolgens verhelderende vragen stellen, reacties geven en zorgen delen over het aannemen van het voorstel. Elke zorg is een **“bezwaar”** als het voldoet aan de hieronder beschreven criteria, en de persoon die het deelt is de **“bezwaarmaker”**.
+
 Zodra elk cirkel-lid aangeeft geen bezwaar te maken tegen een voorstel, dan is het voorstel aangenomen en wordt de besturing van de cirkel gewijzigd. Als er geldige bezwaren gemaakt worden moeten de Indiener en iedere bezwaarmaker een manier vinden om de bezwaren te adresseren voordat het voorstel kan worden aangenomen door de cirkel. Een cirkel mag een werkafspraak aannemen om een tijdslimiet vast te leggen voor het maken van bezwaren, waarna van iedereen die niet gereageerd heeft wordt aangenomen dat ze geen bezwaren hebben. Als je een voorstel buiten een overleg om doet (asynchroon) mag ieder cirkel lid je vragen om het voorstel in een overleg te doen. Tenzij iets anders wordt bepaald in een werkafspraak wordt de asynchrone behandeling dan afgebroken en wordt het voorstel beschouwd als ingetrokken, totdat het opnieuw wordt ingediend tijdens een overleg.
+
 Een cirkel-lid mag bij het doen van voorstellen of het maken van bezwaren alleen de rollen in de cirkel vertegenwoordigen waarvoor hij of zij als Rol-Lead fungeert of welke hij of zij als Cirkel-Rep vertegenwoordigt. Een cirkel-lid mag ook een rol vertegenwoordigen als hij of zij daar tijdelijk toestemming voor heeft gekregen van een van de Rol-Leads van die rol, totdat die toestemming vervalt of ingetrokken wordt.
 
-5.3.1 Geldigheidscriteria voor voorstellen
+### 5.3.1 Geldigheidscriteria voor voorstellen
 Voor een geldig voorstel moet de indiener in staat zijn om:
-Een spanning te beschrijven die door het voorstel geadresseerd zou worden voor een van de rollen van de indiener.
-Een voorbeeld te delen van een situatie in het heden of verleden ter illustratie van de spanning.
-Een aannemelijke verklaring te geven van hoe het voorstel de spanning in dat voorbeeld zou hebben verminderd.
+- Een spanning te beschrijven die door het voorstel geadresseerd zou worden voor een van de rollen van de indiener.
+- Een voorbeeld te delen van een situatie in het heden of verleden ter illustratie van de spanning.
+- Een aannemelijke verklaring te geven van hoe het voorstel de spanning in dat voorbeeld zou hebben verminderd.
+
 Als het de Facilitator op enig moment duidelijk wordt dat een voorstel niet voldoet aan deze criteria, dan moet de Facilitator het voorstel verwerpen.
 
-5.3.2 Geldigheid criteria voor bezwaren
+### 5.3.2 Geldigheid criteria voor bezwaren
 Een zorg over het aannemen van een voorstel geldt alleen als bezwaar als de bezwaarmaker een aannemelijke onderbouwing kan geven waarom het aan alle volgende criteria voldoet:
-het voorstel zou het vermogen van de cirkel verminderen om zijn doel of verantwoordelijkheden te vervullen.
-het voorstel zou het vermogen van de bezwaarmaker verminderen om het doel of een verantwoordelijkheid te vervullen van een rol in de cirkel die door de bezwaarmaker vertegenwoordigd wordt, ook als de bezwaarmaker geen andere rollen in de Organisatie zou vervullen.
-de zorg niet reeds bestaat, zelfs in afwezigheid van het voorstel. Er zou dus een nieuwe spanning ontstaan door het aannemen van het voorstel.
-het voorstel zou noodzakelijkerwijs dit gevolg hebben, of als het mogelijkerwijs dit gevolg zou hebben, dan zou de cirkel onvoldoende kans hebben om bij te sturen voor er aanzienlijke schade kan optreden.
+
+1. het voorstel zou het vermogen van de cirkel verminderen om zijn doel of verantwoordelijkheden te vervullen.
+2. het voorstel zou het vermogen van de bezwaarmaker verminderen om het doel of een verantwoordelijkheid te vervullen van een rol in de cirkel die door de bezwaarmaker vertegenwoordigd wordt, ook als de bezwaarmaker geen andere rollen in de Organisatie zou vervullen.
+3. de zorg niet reeds bestaat, zelfs in afwezigheid van het voorstel. Er zou dus een nieuwe spanning ontstaan door het aannemen van het voorstel.
+4. het voorstel zou noodzakelijkerwijs dit gevolg hebben, of als het mogelijkerwijs dit gevolg zou hebben, dan zou de cirkel onvoldoende kans hebben om bij te sturen voor er aanzienlijke schade kan optreden.
+
 Los van de criteria hierboven geldt een zorg altijd als bezwaar als het aannemen van het voorstel in strijd zou zijn met een regel in deze spelregels.
 
-
-5.3.3 Toetsen van mogelijke bezwaren
+### 5.3.3 Toetsen van mogelijke bezwaren
 De Facilitator mag toetsen of een zorg geldt als bezwaar door de bezwaarmaker te vragen of en hoe de zorg voldoet aan de vereiste criteria. De Facilitator mag bij het beluisteren van de antwoorden alleen beoordelen of de bezwaarmaker voor elk van de criteria redenen heeft gegeven op basis van logische argumentatie. De Facilitator mag geen oordeel vellen op basis van de juistheid of het gewicht van de argumentatie.
+
 Wanneer er in een bezwaar wordt gesteld dat het aannemen van een voorstel in strijd zou zijn met deze spelregels, dan mag de Facilitator de Secretaris van de cirkel vragen om te interpreteren of dat klopt. Als de Secretaris beslist van niet dan moet de Facilitator het bezwaar verwerpen.
 
-5.3.4 Regels van integratie
+### 5.3.4 Regels van integratie
 Om te komen tot een goede integratie gaan de indiener en bezwaarmaker met elkaar in overleg om tot een voorstel te komen die de spanning van de indiener nog oplost zonder een spanning te creëren bij de bezwaarmaker.
-Bij het proberen te integreren van een bezwaar gelden de volgende regels:
-De Facilitator moet een bezwaar toetsen als daartoe verzocht wordt door een cirkel-lid. Als het niet voldoet aan de vereiste criteria moet de Facilitator het bezwaar verwerpen.
-De bezwaarmaker moet zich inspannen om een wijziging van het voorstel te vinden die het bezwaar wegneemt en nog steeds de spanning van de Indiener adresseert. Als de bezwaarmaker naar inschatting van de Facilitator geen redelijke inspanning doet, moet de Facilitator het bezwaar als opgegeven beschouwen.
-Elk cirkellid mag de Indiener verhelderende vragen stellen over de spanning achter het voorstel of de genoemde voorbeelden om beter te begrijpen waar het voorstel vandaan komt. Als de Indiener naar inschatting van de Facilitator geen redelijke inspanning doet om ze te beantwoorden, moet de Facilitator het voorstel als ingetrokken beschouwen.
-De bezwaarmaker mag een aangepast voorstel doen en aannemelijke redenen aandragen waarom het de spanning zou oplossen. De indiener bekijkt of het aangepaste voorstel de originele spanning oplost. Zo niet, dan moet de indiener aan de hand van concrete voorbeelden aantonen dat de spanning niet opgelost is. Als de Indiener dat naar inschatting van de Facilitator niet kan of wil doen, moet de Facilitator het voorstel als ingetrokken beschouwen. Als de indiener en bezwaarmaker niet verder komen is er sprake van een procesverstoring, ga dan naar artikel 5.5.
 
-5.3.5 Verkiezingsproces
+Bij het proberen te integreren van een bezwaar gelden de volgende regels:
+- De Facilitator moet een bezwaar toetsen als daartoe verzocht wordt door een cirkel-lid. Als het niet voldoet aan de vereiste criteria moet de Facilitator het bezwaar verwerpen.
+- De bezwaarmaker moet zich inspannen om een wijziging van het voorstel te vinden die het bezwaar wegneemt en nog steeds de spanning van de Indiener adresseert. Als de bezwaarmaker naar inschatting van de Facilitator geen redelijke inspanning doet, moet de Facilitator het bezwaar als opgegeven beschouwen.
+- Elk cirkellid mag de Indiener verhelderende vragen stellen over de spanning achter het voorstel of de genoemde voorbeelden om beter te begrijpen waar het voorstel vandaan komt. Als de Indiener naar inschatting van de Facilitator geen redelijke inspanning doet om ze te beantwoorden, moet de Facilitator het voorstel als ingetrokken beschouwen.
+- De bezwaarmaker mag een aangepast voorstel doen en aannemelijke redenen aandragen waarom het de spanning zou oplossen. De indiener bekijkt of het aangepaste voorstel de originele spanning oplost. Zo niet, dan moet de indiener aan de hand van concrete voorbeelden aantonen dat de spanning niet opgelost is. Als de Indiener dat naar inschatting van de Facilitator niet kan of wil doen, moet de Facilitator het voorstel als ingetrokken beschouwen. Als de indiener en bezwaarmaker niet verder komen is er sprake van een procesverstoring, ga dan naar artikel 5.5.
+
+### 5.3.5 Verkiezingsproces
 Elk lid van een cirkel mag het besturingsproces ook opstarten door een verzoek te doen om een verkiezing te houden voor een Cirkel-Rep, Facilitator of Secretaris. De Cirkel-Lead wordt verkozen in de bredere cirkel en wordt eventueel aangedragen door de Cirkel-Rep van die cirkel.
-De Facilitator moet dan het “Verkiezingsproces” toepassen, als volgt:
-als eerste stelt de Facilitator vast welke rol verkozen wordt en met welke termijn. De Facilitator mag ook andere informatie delen die relevant is voor de verkiezing. Gedurende deze en de volgende stap mag niemand iets zeggen over mogelijke kandidaten.
-elk cirkel-lid gebruikt een stembriefje of een ander besloten communicatiekanaal om de verkiesbare kandidaat te kiezen die naar zijn of haar inschatting het meest geschikt is voor de rol. Cirkel-leden moeten hun stembriefje ook voorzien van hun eigen naam en niemand mag zich onthouden van stemming of meerdere mensen nomineren.
-gedurende deze stap deelt de Facilitator elke nominatie met alle cirkelleden. Alle cirkel-leden lichten om de beurt toe waarom zij denken dat de door hen genomineerde kandidaat geschikt is voor de rol en onthouden zich van commentaar op andere kandidaten. Discussie is niet toegestaan.
-zodra alle nominaties zijn toegelicht, mag elk cirkel-lid zijn of haar nominatie wijzigen en de reden daarvoor toelichten. Discussie is niet toegestaan.
-de Facilitator telt de nominaties en doet een voorstel om de kandidaat met de meeste nominaties te verkiezen. Bij gelijke stand mag de Facilitator kiezen om:
-als slechts een van de meest genomineerde kandidaten zichzelf heeft genomineerd, deze persoon voor te stellen, of
-als de persoon die de rol op dit moment vervult een van de meest genomineerde kandidaten is, deze persoon voor te stellen, of
-blind en willekeurig een van de meest genomineerde kandidaten te kiezen en voor te stellen, of
-terug te gaan naar de vorige stap en elk cirkel-lid dat iemand anders heeft genomineerd dan de meest genomineerde kandidaten te vragen om hun nominatie te wijzigen naar een van de meest genomineerde kandidaten.
-bezwaar-ronde: De Facilitator vraagt elk cirkel-lid of ze een bezwaar hebben tegen de voorgestelde kandidaat d.m.v. het bezwaren protocol. Als er een geldig bezwaar is moet de Facilitator terug gaan naar de vorige stap in dit proces, alle nominaties voor de verworpen kandidaat negeren en de regels uit de vorige stap toepassen om tot een voorstel te komen voor een andere kandidaat.
+
+De Facilitator moet dan het **“Verkiezingsproces”** toepassen, als volgt:
+
+1. als eerste stelt de Facilitator vast welke rol verkozen wordt en met welke termijn. De Facilitator mag ook andere informatie delen die relevant is voor de verkiezing. Gedurende deze en de volgende stap mag niemand iets zeggen over mogelijke kandidaten.
+2. elk cirkel-lid gebruikt een stembriefje of een ander besloten communicatiekanaal om de verkiesbare kandidaat te kiezen die naar zijn of haar inschatting het meest geschikt is voor de rol. Cirkel-leden moeten hun stembriefje ook voorzien van hun eigen naam en niemand mag zich onthouden van stemming of meerdere mensen nomineren.
+3. gedurende deze stap deelt de Facilitator elke nominatie met alle cirkelleden. Alle cirkel-leden lichten om de beurt toe waarom zij denken dat de door hen genomineerde kandidaat geschikt is voor de rol en onthouden zich van commentaar op andere kandidaten. Discussie is niet toegestaan.
+4. zodra alle nominaties zijn toegelicht, mag elk cirkel-lid zijn of haar nominatie wijzigen en de reden daarvoor toelichten. Discussie is niet toegestaan.
+5. de Facilitator telt de nominaties en doet een voorstel om de kandidaat met de meeste nominaties te verkiezen. Bij gelijke stand mag de Facilitator kiezen om:
+- **a)** als slechts een van de meest genomineerde kandidaten zichzelf heeft genomineerd, deze persoon voor te stellen, of
+- **b)** als de persoon die de rol op dit moment vervult een van de meest genomineerde kandidaten is, deze persoon voor te stellen, of
+- **c)** blind en willekeurig een van de meest genomineerde kandidaten te kiezen en voor te stellen, of
+- **d)** terug te gaan naar de vorige stap en elk cirkel-lid dat iemand anders heeft genomineerd dan de meest genomineerde kandidaten te vragen om hun nominatie te wijzigen naar een van de meest genomineerde kandidaten.
+6. bezwaar-ronde: De Facilitator vraagt elk cirkel-lid of ze een bezwaar hebben tegen de voorgestelde kandidaat d.m.v. het bezwaren protocol. Als er een geldig bezwaar is moet de Facilitator terug gaan naar de vorige stap in dit proces, alle nominaties voor de verworpen kandidaat negeren en de regels uit de vorige stap toepassen om tot een voorstel te komen voor een andere kandidaat.
+
 Een cirkel mag een werkafspraak aannemen om een tijdslimiet vast te leggen voor het nomineren van kandidaten of het reageren op een voorstel in het verkiezingsproces. Na het verstrijken van die tijdslimiet moet de Facilitator iedereen die niet gereageerd heeft uitsluiten van het verdere verloop van het proces.
+
 De Facilitator van een cirkel is verantwoordelijk voor het agenderen van nieuwe verkiezingen voor de verkozen rollen van de cirkel na het verstrijken van een verkiezingstermijn.
 
-
-5.3.6 Vervanging van Facilitator & Secretaris
+### 5.3.6 Vervanging van Facilitator & Secretaris
 Iemand mag optreden als vervangende Facilitator of Secretaris zo lang de rol niet vervuld is. Dit mag ook wanneer de normale Facilitator of Secretaris niet beschikbaar is of wanneer deze om welke reden dan ook om vervanging vraagt.
-Wanneer er vervanging nodig is, wordt de vervanger in deze volgorde bepaald:
-iemand die aangewezen is door de te vervangen persoon.
-voor de Facilitator de actieve Secretaris van de cirkel. 
-Voor de Secretaris de actieve Facilitator van de cirkel.
-de Cirkel-Lead van de cirkel, of als er meer Cirkel-Leads zijn, de eerste die zich bereid verklaart om als vervanger op te treden.
-het eerste cirkel-lid dat zich bereid verklaart om als vervanger op te treden.
 
-5.4 Roloverleggen
-Naast het behandelen van voorstellen die buiten overleggen om worden gedaan heeft elke cirkel ook regelmatig “Roloverleg” om het ecodorp dicht bij de dagelijkse werkelijkheid te houden.
+Wanneer er vervanging nodig is, wordt de vervanger in deze volgorde bepaald:
+
+1. iemand die aangewezen is door de te vervangen persoon.
+2. voor de Facilitator de actieve Secretaris van de cirkel. 
+Voor de Secretaris de actieve Facilitator van de cirkel.
+3. de Cirkel-Lead van de cirkel, of als er meer Cirkel-Leads zijn, de eerste die zich bereid verklaart om als vervanger op te treden.
+4. het eerste cirkel-lid dat zich bereid verklaart om als vervanger op te treden.
+
+## 5.4 Roloverleggen
+Naast het behandelen van voorstellen die buiten overleggen om worden gedaan heeft elke cirkel ook regelmatig **“Roloverleg”** om het ecodorp dicht bij de dagelijkse werkelijkheid te houden.
+
 De Secretaris van de cirkel is verantwoordelijk voor het plannen van het Roloverleg van de cirkel
+
 Naast de regelmatige geplande Roloverleggen van de cirkel moet de Secretaris op verzoek van een cirkel-lid ook tijdig speciale Roloverleggen plannen. Degene die het verzoek doet mag verder een intentie benoemen voor een speciaal Roloverleg en beperkingen van wat er tijdens het overleg mag worden gewijzigd. Hieronder valt bijvoorbeeld het beperken van het overleg op een specifieke spanning of tot het wijzigen van specifieke rollen. In dat geval is de bevoegdheid van dat speciale Roloverleg beperkt tot het behandelen van voorstellen met de genoemde intentie en tot het maken van wijzigingen binnen de genoemde beperkingen.
 
-5.4.1 Deelname
+### 5.4.1 Deelname
 Alle leden van een cirkel mogen deelnemen aan de Roloverleggen van die cirkel. Ook de waarnemende Facilitator en Secretaris mogen deelnemen, zelfs als zij geen lid zijn van die cirkel. In dat geval worden zij tijdelijke cirkel-leden voor de duur van het overleg.
+
 Als een Cirkel-Rep van een cirkel mag je een lid uitnodigen om deel te nemen aan een Roloverleg van een cirkel waar jouw cirkel direct binnen valt. Je mag deze uitnodiging slechts aan één lid tegelijk doen, en alleen om te helpen bij het behandelen van een specifieke spanning van de cirkel die je vertegenwoordigt. Je moet deze spanning zelf ook signaleren en van mening zijn dat het zinvol is om deze te behandelen in de cirkel. De door jou uitgenodigde gast wordt tijdelijk, voor de duur van het overleg, lid van de cirkel, of totdat je de uitnodiging intrekt. Jouw gast mag jouw cirkel samen met jou vertegenwoordigen in het overleg maar alleen tijdens het behandelen van de specifieke spanning.
+
 Buiten de hierboven genoemden mag niemand anders deelnemen in de Roloverleggen van een cirkel.
 
-
-5.4.2 Aankondiging & duur
+### 5.4.2 Aankondiging & duur
 Een cirkel mag alleen een Roloverleg houden als de Secretaris dit een redelijke tijd van tevoren aan alle cirkel-leden heeft aangekondigd. Afgezien daarvan vereist een Roloverleg van een cirkel geen minimum aantal deelnemers, tenzij een werkafspraak dat voorschrijft.
+
 Roloverleggen zijn klaar wanneer de oorspronkelijke door de Secretaris geplande eindtijd is bereikt. De Secretaris mag er tijdens het overleg voor kiezen om de duur te verlengen als alle deelnemers daarmee akkoord gaan.
+
 Een cirkel-lid wordt tijdig uitgenodigd, dus als hij/zij niet aanwezig kan zijn, vervalt zijn/haar inspraak in dat overleg. Een cirkel mag daarom voorstellen aannemen in een Roloverleg zonder rekening te houden met afwezige leden.
 
-5.4.3 Overlegvorm
+### 5.4.3 Overlegvorm
 De Facilitator moet het volgende proces gebruiken voor Roloverleggen:
-Check-in Elke deelnemer deelt een voor een zijn of haar huidige gemoedstoestand om af te stemmen en bewust aanwezig te komen bij het overleg. Reacties zijn niet toegestaan.
-Als gewenst een van de items van 2.1. transparantieplicht (dus projecten, indicatoren en dergelijke)
-Agenda-opbouw & Behandelen: De Facilitator stelt een agenda op van de te behandelen spanningen en behandelt ze vervolgens een voor een.
-Check-out: Elke deelnemer deelt een voor een zijn of haar reflectie op het overleg. Reacties zijn niet toegestaan.
+1. Check-in Elke deelnemer deelt een voor een zijn of haar huidige gemoedstoestand om af te stemmen en bewust aanwezig te komen bij het overleg. Reacties zijn niet toegestaan.
+2. Als gewenst een van de items van 2.1. transparantieplicht (dus projecten, indicatoren en dergelijke)
+3. Agenda-opbouw & Behandelen: De Facilitator stelt een agenda op van de te behandelen spanningen en behandelt ze vervolgens een voor een.
+4. Check-out: Elke deelnemer deelt een voor een zijn of haar reflectie op het overleg. Reacties zijn niet toegestaan.
+
 Een deelnemer mag op elk moment tijdens dit proces een verzoek om een “time-out” doen. De Facilitator mag er voor kiezen om dit verzoek in te willigen of te weigeren. Gedurende de time-out mogen deelnemers administratieve zaken of regels in deze spelregels bespreken. Ze mogen de time out niet gebruiken om aan een spanning, Voorstel of bezwaar te werken. De Facilitator mag een time out op elk moment beëindigen en het normale proces hervatten.
+
 Een werkafspraak van de cirkel mag toevoegingen doen aan dit proces, maar mag niet in strijd zijn met de in dit artikel beschreven regels of eisen.
 
-5.4.4 Agenda-opbouw
+### 5.4.4 Agenda-opbouw
 De Facilitator stelt een agenda van te behandelen spanningen op door alle deelnemers om agendapunten te vragen. De Facilitator moet dit tijdens het overleg doen en niet van tevoren. Elke deelnemer mag zoveel agendapunten als gewenst toevoegen door voor elk punt een of twee steekwoorden te geven. Toelichting of discussie zijn niet toegestaan. Deelnemers mogen tijdens het overleg extra agendapunten toevoegen tussen de behandeling van bestaande agendapunten door.
+
 De facilitator vraagt elke deelnemer om eerst zijn/haar belangrijkste spanning te noemen en maakt zoveel rondes als nodig tot er geen agendapunten meer zijn. Als een deelnemer daartoe verzoekt moet de Facilitator echter agendapunten die een verkiezing vereisen voorrang geven boven alle andere agendapunten. Bij een speciaal Roloverleg, dat op verzoek van een deelnemer is gepland, mag die deelnemer de volgorde van de agenda bepalen.
+
 Agendapunten worden een voor een behandeld. Voor een verzoek om een verkiezing gebruikt de Facilitator het Verkiezingsproces. Voor al het andere gebruikt de Facilitator het hieronder beschreven besluitvormingsproces.
 
+### 5.4.5 Besluitvormingsproces
+De Facilitator moet het **“besluitvormingsproces”** als volgt toepassen:
+1. doen van een voorstel: Om te beginnen mag de Indiener de spanning toelichten en een voorstel doen om deze te adresseren. Op verzoek van de Indiener mag de Facilitator anderen toestaan om te helpen bij het formuleren van een voorstel. De Facilitator moet er voor waken dat deze hulp gericht is op het formuleren van een eerste voorstel om de spanning van de Indiener te adresseren. De Facilitator moet discussie over andere spanningen of zorgen over het voorstel afkappen.
+2. verhelderende vragen: Zodra de Indiener een voorstel heeft gedaan, mogen anderen vragen stellen om het voorstel of de spanning beter te begrijpen. De Indiener mag elke vraag beantwoorden of antwoorden met "onbekend". De Facilitator moet reacties of meningen over het voorstel afkappen en elke vorm van discussie voorkomen. Deelnemers mogen ook de Secretaris vragen om het voorstel voor te lezen of bestaande besturing te laten zien, zowel tijdens deze stap als op elk ander moment waarop deelnemers iets mogen zeggen.
+3. reactieronde: vervolgens mag elke deelnemer, behalve de Indiener, een voor een een reactie op het voorstel geven. De Facilitator moet zorgen dat er alleen op het voorstel wordt gereageerd.
+4. (optioneel) verhelderen: vervolgens mag de Indiener opmerkingen maken in antwoord op de reacties en wijzigingen doen aan het voorstel. De bedoeling van zulke wijzigingen moet echter primair zijn om de spanning van de Indiener beter te adresseren, en niet spanningen van anderen. De Facilitator moet opmerkingen door iemand anders dan de Indiener of de Secretaris direct afkappen. Iedere betrokkenheid van de Secretaris moet alleen gericht zijn op het vastleggen van het gewijzigde voorstel.
+5. bezwaren-ronde: vervolgens mag elke deelnemer een voor een alle spanningen delen die het aannemen van het voorstel oproepen. De Facilitator moet deze spanningen ofwel; vastleggen als bezwaren, ofwel toetsen om te bepalen of ze voldoen aan de criteria voor geldige bezwaren en eventuele geldige bezwaren vastleggen. Als er geen bezwaren zijn is het voorstel aangenomen. Gedurende het toetsen van spanningen en vastleggen van bezwaren moet de Facilitator discussie of elke vorm van reactie direct afkappen, van iedereen behalve de bezwaarmaker.
+6. integratie: Als er bezwaren zijn behandelt de Facilitator deze een voor een door deelnemers te laten brainstormen over mogelijke wijzigingen aan het voorstel om het bezwaar te adresseren. De Facilitator markeert een bezwaar als opgelost wanneer de bezwaarmaker bevestigt dat het gewijzigde voorstel niet langer tot het bezwaar leidt, en de Indiener bevestigt dat het nog steeds de spanning adresseert. Tijdens deze stap moet de Facilitator de in dit Artikel beschreven regels van integratie toepassen. Zodra alle bezwaren zijn geadresseerd gaat de Facilitator met het gewijzigde voorstel terug naar de bezwaren-ronde.
 
-5.4.5 Besluitvormingsproces
-De Facilitator moet het “besluitvormingsproces” als volgt toepassen:
-doen van een voorstel: Om te beginnen mag de Indiener de spanning toelichten en een voorstel doen om deze te adresseren. Op verzoek van de Indiener mag de Facilitator anderen toestaan om te helpen bij het formuleren van een voorstel. De Facilitator moet er voor waken dat deze hulp gericht is op het formuleren van een eerste voorstel om de spanning van de Indiener te adresseren. De Facilitator moet discussie over andere spanningen of zorgen over het voorstel afkappen.
-verhelderende vragen: Zodra de Indiener een voorstel heeft gedaan, mogen anderen vragen stellen om het voorstel of de spanning beter te begrijpen. De Indiener mag elke vraag beantwoorden of antwoorden met "onbekend". De Facilitator moet reacties of meningen over het voorstel afkappen en elke vorm van discussie voorkomen. Deelnemers mogen ook de Secretaris vragen om het voorstel voor te lezen of bestaande besturing te laten zien, zowel tijdens deze stap als op elk ander moment waarop deelnemers iets mogen zeggen.
-reactieronde: vervolgens mag elke deelnemer, behalve de Indiener, een voor een een reactie op het voorstel geven. De Facilitator moet zorgen dat er alleen op het voorstel wordt gereageerd.
-(optioneel) verhelderen: vervolgens mag de Indiener opmerkingen maken in antwoord op de reacties en wijzigingen doen aan het voorstel. De bedoeling van zulke wijzigingen moet echter primair zijn om de spanning van de Indiener beter te adresseren, en niet spanningen van anderen. De Facilitator moet opmerkingen door iemand anders dan de Indiener of de Secretaris direct afkappen. Iedere betrokkenheid van de Secretaris moet alleen gericht zijn op het vastleggen van het gewijzigde voorstel.
-bezwaren-ronde: vervolgens mag elke deelnemer een voor een alle spanningen delen die het aannemen van het voorstel oproepen. De Facilitator moet deze spanningen ofwel; vastleggen als bezwaren, ofwel toetsen om te bepalen of ze voldoen aan de criteria voor geldige bezwaren en eventuele geldige bezwaren vastleggen. Als er geen bezwaren zijn is het voorstel aangenomen. Gedurende het toetsen van spanningen en vastleggen van bezwaren moet de Facilitator discussie of elke vorm van reactie direct afkappen, van iedereen behalve de bezwaarmaker.
-integratie: Als er bezwaren zijn behandelt de Facilitator deze een voor een door deelnemers te laten brainstormen over mogelijke wijzigingen aan het voorstel om het bezwaar te adresseren. De Facilitator markeert een bezwaar als opgelost wanneer de bezwaarmaker bevestigt dat het gewijzigde voorstel niet langer tot het bezwaar leidt, en de Indiener bevestigt dat het nog steeds de spanning adresseert. Tijdens deze stap moet de Facilitator de in dit Artikel beschreven regels van integratie toepassen. Zodra alle bezwaren zijn geadresseerd gaat de Facilitator met het gewijzigde voorstel terug naar de bezwaren-ronde.
-Als een van de deelnemers niet meewerkt aan een oplossing kan de facilitator een 5.5 proces verstoring vaststellen.
+Als een van de deelnemers niet meewerkt aan een oplossing kan de facilitator een *5.5 proces verstoring* vaststellen.
 
-5.5 Procesverstoring
-Er is sprake van een “procesverstoring” wanneer een cirkel een patroon van gedrag of uitkomsten vertoont dat in strijd is met de regels in deze spelregels. De Facilitator of Secretaris van een cirkel mogen een procesverstoring uitroepen in hun eigen cirkel of in elke sub-cirkel daarvan op basis van hun redelijke oordeel. Elk lid dat zich zorgen maakt mag verder een Facilitator verzoeken om een sub-cirkel te evalueren op een mogelijke procesverstoring. De Facilitator is dan verantwoordelijk om de overleggen en vastlegging van een sub-cirkel te beoordelen en indien van toepassing een procesverstoring uit te roepen.
+## 5.5 Procesverstoring
+Er is sprake van een **“procesverstoring”** wanneer een cirkel een patroon van gedrag of uitkomsten vertoont dat in strijd is met de regels in deze spelregels. De Facilitator of Secretaris van een cirkel mogen een procesverstoring uitroepen in hun eigen cirkel of in elke sub-cirkel daarvan op basis van hun redelijke oordeel. Elk lid dat zich zorgen maakt mag verder een Facilitator verzoeken om een sub-cirkel te evalueren op een mogelijke procesverstoring. De Facilitator is dan verantwoordelijk om de overleggen en vastlegging van een sub-cirkel te beoordelen en indien van toepassing een procesverstoring uit te roepen.
 
-5.5.1 Verstoring door vastgelopen besturing
+### 5.5.1 Verstoring door vastgelopen besturing
 De Facilitator van een cirkel mag ook een procesverstoring uitroepen in de cirkel als een voorstel na een redelijke tijd en inspanning door de betrokkenen niet leidt tot een oplossing.
 
-5.5.2 Procesherstel
+### 5.5.2 Procesherstel
 Wanneer een daartoe bevoegde partij een procesverstoring uitroept in een cirkel, dan gebeurt het volgende:
-De Facilitator krijgt de bevoegdheid om de onderbouwing en relevantie te beoordelen van argumenten die worden gegeven bij het toetsen van voorstellen of bezwaren in de cirkel.
-De Facilitator van de bredere cirkel krijgt een project om het reguliere proces in de cirkel te herstellen.
-De Facilitator van de bredere cirkel krijgt de bevoegdheid om het over te nemen als Facilitator of Secretaris van de cirkel.
-De Facilitator van de bredere cirkel mag een extra Cirkel-Lead voor de cirkel toewijzen voor de duur van de procesverstoring. Alle besluiten die deze persoon als Cirkel-Lead maakt krijgen voorrang boven besluiten van andere Cirkel-Leads, ook als ze er mee in strijd zijn.
+1. De Facilitator krijgt de bevoegdheid om de onderbouwing en relevantie te beoordelen van argumenten die worden gegeven bij het toetsen van voorstellen of bezwaren in de cirkel.
+2. De Facilitator van de bredere cirkel krijgt een project om het reguliere proces in de cirkel te herstellen.
+3. De Facilitator van de bredere cirkel krijgt de bevoegdheid om het over te nemen als Facilitator of Secretaris van de cirkel.
+4. De Facilitator van de bredere cirkel mag een extra Cirkel-Lead voor de cirkel toewijzen voor de duur van de procesverstoring. Alle besluiten die deze persoon als Cirkel-Lead maakt krijgen voorrang boven besluiten van andere Cirkel-Leads, ook als ze er mee in strijd zijn.
+
 Deze bevoegdheden vervallen zodra het reguliere proces in de cirkel is hersteld, zoals vastgesteld door de Facilitator van de bredere cirkel.
+
 Als de cirkel waar de procesverstoring optreedt geen bredere cirkel heeft, dan worden de hierboven beschreven bevoegdheden toegekend aan de Facilitator van die cirkel.
 
-5.5.3 Escalatie van een procesverstoring
+### 5.5.3 Escalatie van een procesverstoring
 Een procesverstoring in één cirkel wordt niet automatisch beschouwd als een procesverstoring van de bredere cirkel. Als de verstoring echter een onredelijke tijd voortduurt, dan mag dat beschouwd worden als een procesverstoring in de bredere cirkel.
 
 --------------------------------------------------------------------------------------------------------------------------
