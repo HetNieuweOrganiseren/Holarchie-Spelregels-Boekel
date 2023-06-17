@@ -9,181 +9,218 @@ Auteur; cirkel organisatie Ecodorp Boekel 2022
 
 # Inhoud
 
-Voorwoord	3
-Artikel 1: De Organisatiestructuur	3
-1.1 Definitie van een rol	3
-1.2 verantwoordelijkheden van Rol-Lead	4
-1.2.1 Het verwerken van spanningen	4
-1.2.2 Het verwerken van doel en verantwoordelijkheden.	4
-1.2.3 Opsplitsen van projecten	4
-1.2.4 Bijhouden van projecten, acties en spanningen	4
-1.2.5 Uitvoeren van acties	5
-1.3 Cirkels	5
-1.3.1 Het opsplitsen van rollen	5
-1.3.2 Het delegeren van domeinen	5
-1.3.3 Dorpscirkel	5
-1.3.4 Uitoefenen van jouw rol in een andere cirkel	6
-1.3.5 Facilitator & Secretaris rollen	6
-1.4 Cirkel-Lead	6
-1.4.1 De toewijzing van rollen	7
-1.4.2 Het neerleggen van rollen	7
-1.4.3 Het vervullen van onvervulde rollen	7
-1.4.4 Definiëren van prioriteiten & strategieën	8
-1.4.5 Aanpassen van externe verwijzingen	8
-1.4.6 Wijzigen van de Cirkel-Lead-rol	8
-Artikel 2: Regels voor samenwerking	8
-2.1 Recht op transparantie	8
-2.2 Behandelplicht	9
-2.3 Prioriteringsplicht	9
-2.4 Samenwerkingsafspraken	10
-Artikel 3: Werkoverleggen	11
-3.1 Aanwezigheid	11
-3.2 Werkoverleg vorm	11
-Artikel 4: Gedistribueerde autoriteit	12
-4.1 Beperkingen van bevoegdheid	12
-4.1.1 Overtreed geen werkafspraken	12
-4.1.2 Vraag toestemming voordat je invloed op een domein uitoefent	12
-4.2 Bevoegdheid om te Interpreteren	13
-4.2.1 Interpretatie conflicten	13
-4.2.2 Schrappen van ongeldige besturing	13
-4.3 Individueel initiatief	13
-4.3.1 Toegestane situaties	14
-4.3.2 Communicatie & herstel	14
-Artikel 5: Het besturings-proces	14
-5.1 Besturing-deelnemers	14
-5.1.1 Cirkel-Rep	15
-5.1.2 Facilitator & Secretaris	15
-5.2 Speelruimte waarin je kunt besturen.	16
-5.2.1 Toepassing van Werkafspraken	16
-5.3 Wijzigen van besturing	16
-5.3.1 Geldigheidscriteria voor voorstellen	17
-5.3.2 Geldigheid criteria voor bezwaren	17
-5.3.3 Toetsen van mogelijke bezwaren	18
-5.3.4 Regels van integratie	18
-5.3.5 Verkiezingsproces	18
-5.3.6 Vervanging van Facilitator & Secretaris	19
-5.4 Roloverleggen	20
-5.4.1 Deelname	20
-5.4.2 Aankondiging & duur	21
-5.4.3 Overlegvorm	21
-5.4.4 Agenda-opbouw	21
-5.4.5 Besluitvormingsproces	22
-5.5 Procesverstoring	23
-5.5.1 Verstoring door vastgelopen besturing	23
-5.5.2 Procesherstel	23
-5.5.3 Escalatie van een procesverstoring	24
+## Voorwoord	3
 
+## Artikel 1: De Organisatiestructuur
 
+### 1.1 Definitie van een rol
+### 1.2 verantwoordelijkheden van Rol-Lead
+### 1.2.1 Het verwerken van spanningen
+### 1.2.2 Het verwerken van doel en verantwoordelijkheden.
+### 1.2.3 Opsplitsen van projecten
+### 1.2.4 Bijhouden van projecten, acties en spanningen
+### 1.2.5 Uitvoeren van acties
+### 1.3 Cirkels
+### 1.3.1 Het opsplitsen van rollen
+### 1.3.2 Het delegeren van domeinen
+### 1.3.3 Dorpscirkel
+### 1.3.4 Uitoefenen van jouw rol in een andere cirkel
+### 1.3.5 Facilitator & Secretaris rollen
+### 1.4 Cirkel-Lead
+#### 1.4.1 De toewijzing van rollen
+#### 1.4.2 Het neerleggen van rollen
+#### 1.4.3 Het vervullen van onvervulde rollen
+#### 1.4.4 Definiëren van prioriteiten & strategieën	8
+#### 1.4.5 Aanpassen van externe verwijzingen
+#### 1.4.6 Wijzigen van de Cirkel-Lead-rol
 
-Vet gedrukt: uitleg over een term die binnen holarchie wordt gebruikt
-Schuin gedrukt: verwijzing naar een artikel waar meer uitleg wordt gegeven.
-Onderstreept: tekst met meer nadruk.
+## Artikel 2: Regels voor samenwerking
+### 2.1 Recht op transparantie
+### 2.2 Behandelplicht
+### 2.3 Prioriteringsplicht
+### 2.4 Samenwerkingsafspraken
+
+## Artikel 3: Werkoverleggen
+### 3.1 Aanwezigheid
+### 3.2 Werkoverleg vorm
+
+## Artikel 4: Gedistribueerde autoriteit
+### 4.1 Beperkingen van bevoegdheid
+#### 4.1.1 Overtreed geen werkafspraken
+#### 4.1.2 Vraag toestemming voordat je invloed op een domein uitoefent
+### 4.2 Bevoegdheid om te Interpreteren
+#### 4.2.1 Interpretatie conflicten
+#### 4.2.2 Schrappen van ongeldige besturing
+### 4.3 Individueel initiatief
+#### 4.3.1 Toegestane situaties
+#### 4.3.2 Communicatie & herstel
+
+## Artikel 5: Het besturings-proces
+### 5.1 Besturing-deelnemers
+#### 5.1.1 Cirkel-Rep
+#### 5.1.2 Facilitator & Secretaris
+### 5.2 Speelruimte waarin je kunt besturen.
+#### 5.2.1 Toepassing van Werkafspraken
+### 5.3 Wijzigen van besturing
+#### 5.3.1 Geldigheidscriteria voor voorstellen
+#### 5.3.2 Geldigheid criteria voor bezwaren
+#### 5.3.3 Toetsen van mogelijke bezwaren
+#### 5.3.4 Regels van integratie
+#### 5.3.5 Verkiezingsproces
+#### 5.3.6 Vervanging van Facilitator & Secretaris
+### 5.4 Roloverleggen
+#### 5.4.1 Deelname
+#### 5.4.2 Aankondiging & duur
+#### 5.4.3 Overlegvorm
+#### 5.4.4 Agenda-opbouw
+#### 5.4.5 Besluitvormingsproces
+### 5.5 Procesverstoring
+#### 5.5.1 Verstoring door vastgelopen besturing
+#### 5.5.2 Procesherstel
+#### 5.5.3 Escalatie van een procesverstoring
+
+**Vet gedrukt**: uitleg over een term die binnen holarchie wordt gebruikt
+*Schuin gedrukt*: verwijzing naar een artikel waar meer uitleg wordt gegeven.
+HOOFDLETTERS: tekst met meer nadruk.
 
 # Voorwoord
 De leden accepteren deze spelregels als de formele structuur voor het ecodorp. Wat betekent dat de leden hun bevoegdheid ontlenen aan de regels en processen hieronder beschreven. De leden mogen deze spelregels op elk moment aanpassen of verwerpen mits er geen bezwaar is en zolang de aanpassingen maar wel in dit document geschreven worden. De leden mogen een initiële structuur, werkafspraken en domeinen bepalen bij het aannemen van deze spelregels.
+
 Alle bestaande regels en processen van de organisatie blijven gelden, maar mogen alleen uitgebreid of aangepast worden volgens deze spelregels.
+
 Regels en processen verliezen elke vorm van bevoegdheid zodra er iets gemaakt wordt dat ze vervangt of tegenspreekt.
+
 Het ecodorp mag "partners" (geïnteresseerden of externe samenwerkingspartners) uitnodigen om mee te doen met het besturen en uitvoeren van acties zolang de partner akkoord gaat met deze spelregels. Het ecodorp bepaalt wanneer en op welke manier partners bij kunnen dragen.
+
 Deze methode is gebaseerd op zelfreflectie, vertrouwen en eigen verantwoordelijkheid.
+
 Als deelnemer van het Ecodorp kun je vertrouwen op de bevoegdheid die deze spelregels jou geven. Jouw verantwoordelijkheden en beperkingen komen voort uit deze spelregels in de vorm van rollen en werkafspraken (in bv. Glassfrog). Naarmate de organisatie groeit en vorm krijgt veranderen jouw verantwoordelijkheden en beperkingen mee.
+
 Geen enkele expliciete of impliciete verwachting of beperking heeft enige bevoegdheid over jou als deze niet verkregen is door deze spelregels. Dus alleen als je een rol vervult mogen mensen verwachten dat jij daar verantwoordelijkheid voor neemt. Elk ander verzoek is een uitnodiging maar geen verplichting.
 
 # Artikel 1: De Organisatiestructuur
 
 ## 1.1 Definitie van een rol
-Een "rol" heeft een specifieke taak die noodzakelijk is voor Ecodorp Boekel (de organisatie). De persoon die de rol vervult is de "Rol-Lead" van die rol. Een of meerdere personen kunnen een rol vervullen, er wordt dan een focus toegepast zie voor verdere uitleg: 1.4.1 Het toekennen van rollen .
-Een rol heeft een "naam" (geeft duidelijkheid over wat de rol doet) en een of meer van de volgende elementen:
-een "doel"(Purpose); dit is een bekwaamheid, potentieel, of resultaat die de rol nastreeft.
-een of meerdere "domeinen"; dit zijn middelen, processen of andere dingen die de rol mag controleren en reguleren alsof het haar eigendom is in dienst van haar doel.
-een of meerdere "verantwoordelijkheden"; dit zijn doorlopende activiteiten waar de rol zorg voor draagt, in dienst van andere rollen of het doel.
-een rol of cirkel kan ook een bepaalde "werkafspraken" hebben; deze geven of beperken bepaalde bevoegdheid of speciale regels die gelden binnen die Rol. In andere woorden, werkafspraken bieden duidelijkheid over hoe je iets uitvoert doordat je iets afkadert.!! zie 5.2.1
+Een **"rol"** heeft een specifieke taak die noodzakelijk is voor Ecodorp Boekel (de organisatie). De persoon die de rol vervult is de **"Rol-Lead"** van die rol. Een of meerdere personen kunnen een rol vervullen, er wordt dan een focus toegepast zie voor verdere uitleg: 1.4.1 Het toekennen van rollen .
+
+Een rol heeft een **"naam"** (geeft duidelijkheid over wat de rol doet) en een of meer van de volgende elementen:
+
+1. een "doel"(Purpose); dit is een bekwaamheid, potentieel, of resultaat die de rol nastreeft.
+2. een of meerdere "domeinen"; dit zijn middelen, processen of andere dingen die de rol mag controleren en reguleren alsof het haar eigendom is in dienst van haar doel.
+3. een of meerdere "verantwoordelijkheden"; dit zijn doorlopende activiteiten waar de rol zorg voor draagt, in dienst van andere rollen of het doel.
+4. een rol of cirkel kan ook een bepaalde "werkafspraken" hebben; deze geven of beperken bepaalde bevoegdheid of speciale regels die gelden binnen die Rol. In andere woorden, werkafspraken bieden duidelijkheid over hoe je iets uitvoert doordat je iets afkadert.!! *zie 5.2.1*
 
 ## 1.2 verantwoordelijkheden van Rol-Lead
 Als Rol-Lead heb je de volgende verantwoordelijkheden:
 
 ### 1.2.1 Het verwerken van spanningen
 Je bent er verantwoordelijk voor om de huidige invulling van het doel en verantwoordelijkheden van je rol steeds te vergelijken met jouw beeld van de ideale situatie. Om verschillen tussen die twee te signaleren (elk verschil is een “spanning”). Vervolgens ben je er verantwoordelijk voor om die spanningen proberen op te lossen. Een spanning is: het verschil tussen hoe je weet dat het is en hoe je wil dat het is.
+
 Jij als Rol-Lead werkt vanuit je eigen visie richting een helder doel met duidelijke verantwoordelijkheden. Daarbij is het jouw taak om spanningen te ervaren en actief te werken naar de oplossing van die spanning.
 
-1.2.2 Het verwerken van doel en verantwoordelijkheden.
+### 1.2.2 Het verwerken van doel en verantwoordelijkheden.
 Jij bent verantwoordelijk voor het regelmatig overwegen hoe jij het ecodorp het beste kan dienen door jouw rol te vervullen:
-"acties" voor jezelf noteren die je concreet kunt doen als de tijd het toestaat; en
-"projecten" noteren, dit is een set acties die leiden tot het bereiken van specifieke resultaten.
+1. "acties" voor jezelf noteren die je concreet kunt doen als de tijd het toestaat; en
+2. "projecten" noteren, dit is een set acties die leiden tot het bereiken van specifieke resultaten.
 
-1.2.3 Opsplitsen van projecten
+### 1.2.3 Opsplitsen van projecten
 Jij bent verantwoordelijk voor het regelmatig bepalen van acties voor de projecten van jouw rol(len) en deze op je actielijst te zetten.
 
-1.2.4 Bijhouden van projecten, acties en spanningen
+### 1.2.4 Bijhouden van projecten, acties en spanningen
 Jij bent verantwoordelijk voor het opschrijven van alle projecten en acties van jouw rol in een geschreven lijst. Ook moet je jouw spanningen opschrijven totdat je ze kunt verwerken in projecten of acties. Deze lijst moet je regelmatig verzorgen en aanvullen om een helder overzicht te houden van jouw potentiële werkzaamheden.
 
-1.2.5 Uitvoeren van acties
+### 1.2.5 Uitvoeren van acties
 Wanneer je tijd beschikbaar hebt voor jouw rol moet je overwegen welke acties je kunt doen. Je kiest degene die de meeste waarde oplevert voor de organisatie van het ecodorp.
-1.3 Cirkels
-Een “Cirkel” is een organisatorische eenheid om rollen en werkafspraken te bepalen rond een gezamenlijk doel.
-Het "Besturen" van een cirkel doe je door rollen en werkafspraken te maken in het Roloverleg. Zie: 5.2 Speelruimte waarin je kunt besturen.
 
-1.3.1 Het opsplitsen van rollen 
+## 1.3 Cirkels
+Een **“Cirkel”** is een organisatorische eenheid om rollen en werkafspraken te bepalen rond een gezamenlijk doel.
+
+Het **"Besturen"** van een cirkel doe je door rollen en werkafspraken te maken in het Roloverleg. 
+*Zie: 5.2 Speelruimte waarin je kunt besturen.*
+
+### 1.3.1 Het opsplitsen van rollen 
 Een rol heeft een potentieel tot een cirkel in zich en kan deze vormen tot een sub-cirkel. De sub-cirkel krijgt het doel en de verantwoordelijkheden van die rol. De Rol-Lead wordt automatisch Cirkel-Lead. Deze moet de verantwoordelijkheden dan verdelen in verschillende rollen en gaat op zoek naar leden om de rollen  te vervullen. 
-De cirkel waar de nieuwe sub-cirkel binnen hoort wordt de "bredere-Cirkel" genoemd. 
+
+De cirkel waar de nieuwe sub-cirkel binnen hoort wordt de **"bredere-Cirkel"** genoemd. 
 De Cirkel-Lead, Cirkel-Rep, Facilitator en Secretaris kunnen zich niet opsplitsen in sub-cirkels.
 
-1.3.2 Het delegeren van domeinen
+### 1.3.2 Het delegeren van domeinen
 Wanneer een cirkel een domein toekent aan een van haar rollen dan mag de Rol-Lead van de cirkel het domein beheren. Een cirkel mag alleen domeinen toekennen aan de rollen binnen haar cirkel en alleen als ze relevant zijn voor die cirkel.
+
 Wanneer een rol een domein beheert mag zij werkafspraken bepalen middels het besturen van de cirkel (Roloverleg). De cirkel die het domein heeft toegekend behoudt mede het recht om de werkafspraken van dat domein te bepalen. De werkafspraken van de cirkel overstijgen de werkafspraken van de rol in het geval van conflict.
-1.3.3 Dorpscirkel
-De breedste cirkel die het doel van het gehele ecodorp behelst wordt de Dorpscirkel genoemd.
+
+### 1.3.3 Dorpscirkel
+De breedste cirkel die het doel van het gehele ecodorp behelst wordt de **Dorpscirkel** genoemd.
+
 De Dorpscirkel bevat alle bevoegdheden en domeinen die de organisatie zelf beheert en heeft geen bredere-Cirkel.
+
 De Dorpscirkel mag haar eigen doel aanpassen en/of haar verantwoordelijkheden verhelderen door middel van werkafspraken.
 
-1.3.4 Uitoefenen van jouw rol in een andere cirkel
+### 1.3.4 Uitoefenen van jouw rol in een andere cirkel
 Als je een rol vervult in een cirkel kan die rol ook in een andere cirkel worden uitgeoefend. Dit kan door middel van het aanmaken van werkafspraken in de andere cirkel.
-Zodra een rol in een andere cirkel wordt uitgeoefend, wordt die rol beschouwd als onderdeel van de besturing van die cirkel. Die cirkel mag dan ook aanvullingen doen aan de rollen die aanvullingen op een later moment veranderen. De bevoegdheid om de originele rol aan te passen blijft bij de "bron-cirkel" van de rol. 
+
+Zodra een rol in een andere cirkel wordt uitgeoefend, wordt die rol beschouwd als onderdeel van de besturing van die cirkel. Die cirkel mag dan ook aanvullingen doen aan de rollen die aanvullingen op een later moment veranderen. De bevoegdheid om de originele rol aan te passen blijft bij de **"bron-cirkel"** van de rol. 
+
 Een cirkel kan de verbinding met een rol verbreken door de werkafspraken die uitnodigen tot die verbinding te verwijderen of aan te passen. Een rol mag er ook voor kiezen om de verbinding te verbreken mits de werkafspraken van haar bron-cirkel dat toestaat. Zodra de verbinding tussen een rol en de andere cirkel verbroken is vervalt alle besturing die de rol van die cirkel heeft gekregen.
 
-1.3.5 Facilitator & Secretaris rollen 
-Elke cirkel mag iemand kiezen als haar "Facilitator". Het doel van deze rol is: zorg dragen voor het ontwikkelen van besturing en vervolg-acties in lijn met deze spelregels.
-Elke cirkel mag iemand verkiezen als haar "Secretaris". Het doel van deze rol is: zorg dragen voor het bijhouden van alle documenten die te maken hebben met de besturing van het ecodorp en waarin de uitkomsten van Overleggen beschreven staan.
+### 1.3.5 Facilitator & Secretaris rollen 
+Elke cirkel mag iemand kiezen als haar **"Facilitator"**. Het doel van deze rol is: zorg dragen voor het ontwikkelen van besturing en vervolg-acties in lijn met deze spelregels.
+
+Elke cirkel mag iemand verkiezen als haar **"Secretaris"**. Het doel van deze rol is: zorg dragen voor het bijhouden van alle documenten die te maken hebben met de besturing van het ecodorp en waarin de uitkomsten van Overleggen beschreven staan.
+
 Een cirkel mag verantwoordelijkheden en domeinen toevoegen, aanpassen en verwijderen van haar Facilitator- en/of Secretaris rol. Maar de originele rol, zoals beschreven in deze spelregels, mag niet aangepast worden.
 
-1.4 Cirkel-Lead
-Het dienen als Rol-Lead betekent dat je ook "Cirkel-Lead” bent van de cirkel binnen die rol en zodoende de Cirkel-Lead-rol vervuld van die rol. De Cirkel-Lead rol is verantwoordelijk voor het behalen van het doel van de rol waarbinnen die cirkel valt. Eveneens voor alle verantwoordelijkheden en processen van die rol die niet ondergebracht zijn bij een rol in die cirkel.
-De Cirkel-Lead kan verkozen worden door middel van een verkiezing in de bredere cirkel, indien nodig d.m.v. artikel 5.3.5. Verkiezingsproces
+## 1.4 Cirkel-Lead
+Het dienen als Rol-Lead betekent dat je ook **"Cirkel-Lead”** bent van de cirkel binnen die rol en zodoende de Cirkel-Lead-rol vervuld van die rol. De Cirkel-Lead rol is verantwoordelijk voor het behalen van het doel van de rol waarbinnen die cirkel valt. Eveneens voor alle verantwoordelijkheden en processen van die rol die niet ondergebracht zijn bij een rol in die cirkel.
+
+De Cirkel-Lead kan verkozen worden door middel van een verkiezing in de bredere cirkel, indien nodig d.m.v. *artikel 5.3.5. Verkiezingsproces*
+
 De Dorpscirkel heeft geen Cirkel-Lead tenzij daar een werkafspraak voor is.
 
-1.4.1 De toewijzing van rollen 
+###  1.4.1 De toewijzing van rollen 
 De cirkel leden bepalen de toewijzing voor de vervulling van een rol. Deze mag vervuld worden door iedereen die hiertoe bereid is.
-Een rol mag op ieder moment neergelegd worden door Artikel 1.4.1.1 te volgen, tenzij anders is afgesproken.
+
+Een rol mag op ieder moment neergelegd worden door *Artikel 1.4.1.1* te volgen, tenzij anders is afgesproken.
+
 Een rol kan door meerdere mensen op hetzelfde moment vervuld worden. Mensen kunnen zoveel rollen vervullen als gezond is.
+
 De cirkel mag de toewijzing van een rol altijd intrekken als een rol vervuller zijn/haar verantwoordelijkheden voor het ecodorp niet neemt. D.m.v. de volgende stappen:
-praat met de rolvervuller over het nemen van de verantwoordelijkheid van de rol.
-als de rolvervuller de verantwoordelijkheden na een afgesproken hoeveelheid tijd nog steeds niet neemt geef dan aan dat je contact opneemt met de Cirkel-Lead.
-de Cirkel-Lead praat met de rolvervuller over het nemen van de verantwoordelijkheid van de rol.
-als de rolvervuller de verantwoordelijkheden na een afgesproken hoeveelheid tijd nog steeds niet neemt mag de Cirkel-Lead de toewijzing van de rol intrekken.
+
+1. praat met de rolvervuller over het nemen van de verantwoordelijkheid van de rol.
+2. als de rolvervuller de verantwoordelijkheden na een afgesproken hoeveelheid tijd nog steeds niet neemt geef dan aan dat je contact opneemt met de Cirkel-Lead.
+3. de Cirkel-Lead praat met de rolvervuller over het nemen van de verantwoordelijkheid van de rol.
+4.als de rolvervuller de verantwoordelijkheden na een afgesproken hoeveelheid tijd nog steeds niet neemt mag de Cirkel-Lead de toewijzing van de rol intrekken.
+
 Alleen de Cirkel-Lead mag toezeggingen doen of intrekken binnen haar cirkel, tenzij de cirkel die bevoegdheid heeft gedelegeerd aan een andere rol of proces. Met een werkafspraak kan deze toezegging en/of intrekking aangepast worden.
-De cirkel mag een 'focus' met een specifieke context aanbrengen op de toewijzing van de rol. Als een focus toegepast wordt dan gedraagt elke toewijzing zich als een aparte rol, het doel, e.v.t. domein en verantwoordelijkheden blijven geldig maar alleen binnen de focus van de toezegging.
 
-1.4.2 Het neerleggen van rollen 
+De cirkel mag een **'focus'** met een specifieke context aanbrengen op de toewijzing van de rol. Als een focus toegepast wordt dan gedraagt elke toewijzing zich als een aparte rol, het doel, e.v.t. domein en verantwoordelijkheden blijven geldig maar alleen binnen de focus van de toezegging.
+
+### 1.4.2 Het neerleggen van rollen 
 Als jij een rol neerlegt moet je de volgende stappen ondernemen:
-informeer alle rollen die worden geraakt door jouw besluit.
-een goede overdracht doen van al jouw projecten, acties en verdere nuttige informatie.
+1. informeer alle rollen die worden geraakt door jouw besluit.
+2. een goede overdracht doen van al jouw projecten, acties en verdere nuttige informatie.
 
-1.4.3 Het vervullen van onvervulde rollen 
+### 1.4.3 Het vervullen van onvervulde rollen 
 Wanneer een rol in een cirkel onvervuld is wordt de Cirkel-Lead automatisch de Rol-Lead van die rol.
+
 Wanneer een rol alleen wordt vervuld door mensen die geen lid zijn van de organisatie wordt elke Cirkel-Lead ook automatisch beschouwd als Rol-Lead van die rol.
+
 Maar dit geldt alleen als de partner niet dezelfde verantwoordelijkheden heeft als de leden.
 
-1.4.4 Definiëren van prioriteiten & strategieën
-Een Cirkel-Lead mag de relatieve waarde van mogelijk werk van de cirkel inschatten om prioriteit conflicten tussen rollen op te lossen. Een Cirkel-Lead mag ook een “strategie” voor de cirkel bepalen, of meerdere strategieën, oftewel vuistregels voor het stellen van prioriteiten in de cirkel.
+### 1.4.4 Definiëren van prioriteiten & strategieën
+Een Cirkel-Lead mag de relatieve waarde van mogelijk werk van de cirkel inschatten om prioriteit conflicten tussen rollen op te lossen. Een Cirkel-Lead mag ook een **“strategie”** voor de cirkel bepalen, of meerdere strategieën, oftewel vuistregels voor het stellen van prioriteiten in de cirkel.
 
-1.4.5 Aanpassen van externe verwijzingen
+### 1.4.5 Aanpassen van externe verwijzingen
 Wanneer de besturing van buiten de cirkel verwijst naar de cirkel of naar een rol binnen de cirkel, dan mag een Cirkel-Lead die verwijzing zo aanpassen dat deze verwijst naar een andere rol in de cirkel. Deze verduidelijking wordt niet beschouwd als een wijziging van de besturing van de cirkel.
 
-1.4.6 Wijzigen van de Cirkel-Lead-rol
+### 1.4.6 Wijzigen van de Cirkel-Lead-rol
 Een cirkel mag het doel van de Cirkel-Lead-rol niet wijzigen, noch de rol verwijderen.
+
 Een cirkel mag verantwoordelijkheden of domeinen toevoegen aan de Cirkel-Lead-rol en deze toevoegingen later weer verwijderen. Eventuele toevoegingen gelden echter automatisch voor de Cirkel-Lead-rol van alle sub-cirkels, sub-cirkels van sub-cirkels, en zo verder. Een cirkel mag verantwoordelijkheden of domeinen niet alleen aan de eigen Cirkel-Lead-rol toevoegen, of ze alleen toepassen op de eigen cirkel.
+
 Een cirkel mag verantwoordelijkheden, domeinen, bevoegdheden of functies van de eigen Cirkel-Lead-rol delegeren naar een andere rol binnen de cirkel, of door er een alternatief mechanisme voor te beschrijven. Hiermee vervalt automatisch de gedelegeerde bevoegdheid of functie van de Cirkel-Lead-rol van de cirkel, voor zo lang dit gedelegeerd blijft.
 
-Artikel 2: Regels voor samenwerking
+# Artikel 2: Regels voor samenwerking
 2.1 Recht op transparantie
 Als lid van het Ecodorp heb je het recht op transparantie van alle rol-leads. Iedere rol-lead moet de volgende zaken op verzoek kunnen tonen:
 projecten & acties: Je moet projecten en acties delen die jij bijhoudt voor de Organisatie.
