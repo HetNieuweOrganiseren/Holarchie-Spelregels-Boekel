@@ -221,55 +221,61 @@ Een cirkel mag verantwoordelijkheden of domeinen toevoegen aan de Cirkel-Lead-ro
 Een cirkel mag verantwoordelijkheden, domeinen, bevoegdheden of functies van de eigen Cirkel-Lead-rol delegeren naar een andere rol binnen de cirkel, of door er een alternatief mechanisme voor te beschrijven. Hiermee vervalt automatisch de gedelegeerde bevoegdheid of functie van de Cirkel-Lead-rol van de cirkel, voor zo lang dit gedelegeerd blijft.
 
 # Artikel 2: Regels voor samenwerking
-2.1 Recht op transparantie
+
+## 2.1 Recht op transparantie
+
 Als lid van het Ecodorp heb je het recht op transparantie van alle rol-leads. Iedere rol-lead moet de volgende zaken op verzoek kunnen tonen:
-projecten & acties: Je moet projecten en acties delen die jij bijhoudt voor de Organisatie.
-relatieve prioriteit: Je moet jouw inschatting delen van de relatieve prioriteit van jouw projecten of eerstvolgende acties ten opzichte van al het andere dat om jouw aandacht vraagt.
-inschatting: Je moet een inschatting kunnen geven van wanneer je verwacht je projecten of eerstvolgende acties af te ronden. Een ruwe schatting op basis van je huidige context en prioriteiten is voldoende. Een gedetailleerde analyse of planning is niet nodig en een voorspelling is geen belofte. Je bent niet verplicht om je voorspelling vast te leggen of er op terug te komen bij de ontvanger als er iets verandert, tenzij anders bepaald in de besturing.
-terugkerende Taken: Je moet delen of terugkerende taken die je uitvoert voor je rollen of als lid van de organisatie gedaan zijn. Als daarnaar gevraagd wordt moet je dit regelmatig blijven delen, tot het moment dat jij denkt dat het niet meer zinvol is.
-indicatoren: Je moet indicatoren delen die je bijhoudt voor je rollen of als lid van de organisatie. Als daartoe verzocht wordt moet je ze regelmatig blijven delen, tot het moment dat jij denkt dat het niet meer zinvol is.
-voortgangs-updates: Je moet een samenvatting delen van je voortgang in rollen of projecten sinds je vorige update. Als daartoe verzocht wordt moet je deze updates blijven delen, tot het moment dat jij denkt dat het niet meer zinvol is.
-andere Informatie: Je moet alle andere informatie delen die gemakkelijk verkrijgbaar is en waarvan het delen niet schadelijk is.
+1. projecten & acties: Je moet projecten en acties delen die jij bijhoudt voor de Organisatie.
+2. relatieve prioriteit: Je moet jouw inschatting delen van de relatieve prioriteit van jouw projecten of eerstvolgende acties ten opzichte van al het andere dat om jouw aandacht vraagt.
+3. inschatting: Je moet een inschatting kunnen geven van wanneer je verwacht je projecten of eerstvolgende acties af te ronden. Een ruwe schatting op basis van je huidige context en prioriteiten is voldoende. Een gedetailleerde analyse of planning is niet nodig en een voorspelling is geen belofte. Je bent niet verplicht om je voorspelling vast te leggen of er op terug te komen bij de ontvanger als er iets verandert, tenzij anders bepaald in de besturing.
+4. terugkerende Taken: Je moet delen of terugkerende taken die je uitvoert voor je rollen of als lid van de organisatie gedaan zijn. Als daarnaar gevraagd wordt moet je dit regelmatig blijven delen, tot het moment dat jij denkt dat het niet meer zinvol is.
+5. indicatoren: Je moet indicatoren delen die je bijhoudt voor je rollen of als lid van de organisatie. Als daartoe verzocht wordt moet je ze regelmatig blijven delen, tot het moment dat jij denkt dat het niet meer zinvol is.
+6. voortgangs-updates: Je moet een samenvatting delen van je voortgang in rollen of projecten sinds je vorige update. Als daartoe verzocht wordt moet je deze updates blijven delen, tot het moment dat jij denkt dat het niet meer zinvol is.
+7. andere Informatie: Je moet alle andere informatie delen die gemakkelijk verkrijgbaar is en waarvan het delen niet schadelijk is.
 
 
-2.2 Behandelplicht
+## 2.2 Behandelplicht
 Als een lid heb je de plicht om berichten en verzoeken van Rol-Leads in de organisatie tijdig te behandelen, als volgt:
-verzoeken om verheldering: Anderen mogen jou vragen om te verhelderen wat de volgende stappen zijn voor je projecten of voor de verantwoordelijkheden van je rollen . Je moet dan bepalen en delen wat de eerstvolgende actie is om vooruit te komen, als die er is. Zo niet, dan moet je delen waar je op wacht voordat je een eerstvolgende actie kunt nemen.
-verzoeken om projecten & eerstvolgende acties: Anderen mogen jou vragen om een specifieke eerstvolgende actie of Project op je te nemen. Je moet dit accepteren en vastleggen als het naar jouw inschatting zinvol is om te doen voor een van je rollen of als lid van de organisatie, mits er geen hogere prioriteiten zijn. Als het naar jouw inschatting niet zinvol is, dan moet je een reden geven waarom niet of een alternatief aandragen dat in jouw ogen het doel van de vrager zou bereiken.
-verzoeken om invloed uit te oefenen op een domein: Anderen mogen jou vragen om invloed uit te oefenen op een domein dat wordt beheerd door een van je rollen . Als je geen reden ziet dat het je belemmert in het behalen van het doel en verantwoordelijkheden van jouw rol(len) dan moet je dit toestaan. Als je daar wel een reden toe ziet dan moet je dat uitleggen aan de vrager.
+1. verzoeken om verheldering: Anderen mogen jou vragen om te verhelderen wat de volgende stappen zijn voor je projecten of voor de verantwoordelijkheden van je rollen . Je moet dan bepalen en delen wat de eerstvolgende actie is om vooruit te komen, als die er is. Zo niet, dan moet je delen waar je op wacht voordat je een eerstvolgende actie kunt nemen.
+2. verzoeken om projecten & eerstvolgende acties: Anderen mogen jou vragen om een specifieke eerstvolgende actie of Project op je te nemen. Je moet dit accepteren en vastleggen als het naar jouw inschatting zinvol is om te doen voor een van je rollen of als lid van de organisatie, mits er geen hogere prioriteiten zijn. Als het naar jouw inschatting niet zinvol is, dan moet je een reden geven waarom niet of een alternatief aandragen dat in jouw ogen het doel van de vrager zou bereiken.
+3. verzoeken om invloed uit te oefenen op een domein: Anderen mogen jou vragen om invloed uit te oefenen op een domein dat wordt beheerd door een van je rollen . Als je geen reden ziet dat het je belemmert in het behalen van het doel en verantwoordelijkheden van jouw rol(len) dan moet je dit toestaan. Als je daar wel een reden toe ziet dan moet je dat uitleggen aan de vrager.
 
-2.3 Prioriteringsplicht
+## 2.3 Prioriteringsplicht
 Als een lid heb je de plicht om je aandacht op de volgende manier te prioriteren:
-verwerken: Je moet in principe inkomende berichten van andere Rol-Leads aan jouw rollen prioriteren boven het uitvoeren van je eigen eerstvolgende acties. Je mag het behandelen van berichten echter uitstellen totdat je op een geschikt moment meer berichten in een keer kunt behandelen, zo lang je ze maar tijdig behandelt. Behandelen betekent dat je de in dit artikel beschreven plichten vervult en vervolgens deelt hoe je dat hebt gedaan, als daartoe verzocht wordt. Behandelen betekent niet dat je de eerstvolgende acties of projecten die je eventueel vastlegt direct uitvoert.
-overleggen: Je moet deelname aan een in deze spelregels beschreven overleg prioriteren boven het uitvoeren van je eigen eerstvolgende acties, maar alleen wanneer een ander lid daar expliciet toe verzoekt voor een specifiek overleg. Je mag het verzoek weigeren als je al iets hebt gepland op het moment dat het overleg plaats vindt.
-cirkel prioriteiten: Wanneer je een keuze maakt waar je in een rol aan gaat werken, dan moet je daarin rekening houden met officiële strategieën of relatieve prioriteiten van die rol, van de cirkel waar de rol binnen valt, of van een bredere cirkel daarvan. Je moet deze officiële prioriteiten voorrang geven boven je individuele prioriteiten of eigen inschatting van de prioriteiten van de organisatie. Officiële prioriteiten van een cirkel verwijzen naar de prioriteiten die zijn bepaald door een Cirkel-Lead, of door een andere rol of proces met de bevoegdheid om prioriteit conflicten op te lossen en strategieën te bepalen voor die cirkel.
-deadlines: Als de besturing of een officiële strategie of prioriteit van een cirkel een deadline bevat waarin staat wanneer iets klaar moet zijn, dan mag dat niet geïnterpreteerd worden als een opdracht om die deadline koste wat kost te halen. In plaats daarvan moet het geïnterpreteerd worden als een officiële prioritering van het werk dat noodzakelijk is om de deadline te halen, boven al het andere werk van de cirkel, en moet daar naar gehandeld te worden. Een Cirkel-Lead of andere rol of proces met de bevoegdheid om prioriteit conflicten tussen rollen op te lossen mag deze prioriteit herzien of herroepen.
+1. verwerken: Je moet in principe inkomende berichten van andere Rol-Leads aan jouw rollen prioriteren boven het uitvoeren van je eigen eerstvolgende acties. Je mag het behandelen van berichten echter uitstellen totdat je op een geschikt moment meer berichten in een keer kunt behandelen, zo lang je ze maar tijdig behandelt. Behandelen betekent dat je de in dit artikel beschreven plichten vervult en vervolgens deelt hoe je dat hebt gedaan, als daartoe verzocht wordt. Behandelen betekent niet dat je de eerstvolgende acties of projecten die je eventueel vastlegt direct uitvoert.
+2. overleggen: Je moet deelname aan een in deze spelregels beschreven overleg prioriteren boven het uitvoeren van je eigen eerstvolgende acties, maar alleen wanneer een ander lid daar expliciet toe verzoekt voor een specifiek overleg. Je mag het verzoek weigeren als je al iets hebt gepland op het moment dat het overleg plaats vindt.
+3. cirkel prioriteiten: Wanneer je een keuze maakt waar je in een rol aan gaat werken, dan moet je daarin rekening houden met officiële strategieën of relatieve prioriteiten van die rol, van de cirkel waar de rol binnen valt, of van een bredere cirkel daarvan. Je moet deze officiële prioriteiten voorrang geven boven je individuele prioriteiten of eigen inschatting van de prioriteiten van de organisatie. Officiële prioriteiten van een cirkel verwijzen naar de prioriteiten die zijn bepaald door een Cirkel-Lead, of door een andere rol of proces met de bevoegdheid om prioriteit conflicten op te lossen en strategieën te bepalen voor die cirkel.
+4. deadlines: Als de besturing of een officiële strategie of prioriteit van een cirkel een deadline bevat waarin staat wanneer iets klaar moet zijn, dan mag dat niet geïnterpreteerd worden als een opdracht om die deadline koste wat kost te halen. In plaats daarvan moet het geïnterpreteerd worden als een officiële prioritering van het werk dat noodzakelijk is om de deadline te halen, boven al het andere werk van de cirkel, en moet daar naar gehandeld te worden. Een Cirkel-Lead of andere rol of proces met de bevoegdheid om prioriteit conflicten tussen rollen op te lossen mag deze prioriteit herzien of herroepen.
 
-2.4 Samenwerkingsafspraken
+## 2.4 Samenwerkingsafspraken
 Als een lid mag jij “samenwerkingsafspraken” maken met andere leden. Dit zijn afspraken over hoe jullie je tot elkaar verhouden in de samenwerking binnen de organisatie, of over hoe jij jouw algemene taken als lid van de organisatie vervult. Deze afspraken mogen voortbouwen op de in dit Artikel beschreven plichten of ze verder verhelderen, maar ze mogen er niet mee in strijd zijn.
+
 Samenwerkingsafspraken moeten gericht zijn op het algemene gedrag dat ondersteunend is aan het werk. Ze mogen geen verwachtingen scheppen van het werk van een rol, noch van hoe een lid werk moet prioriteren tussen rollen. Verder mogen ze alleen concrete gedragingen of gedragsregels waaraan je je moet houden beschrijven. Ze mogen geen beloftes bevatten om specifieke resultaten of abstracte kwaliteiten na te streven.
+
 Als lid mag je een verzoek tot een samenwerkingsafspraak doen aan een ander lid, op basis van je persoonlijke voorkeuren of voor een rol die je vervult. Dit lid mag de verzochte samenwerkingsafspraak accepteren of weigeren op basis van zijn of haar persoonlijke voorkeuren. Tenzij anders bepaald mogen beide partijen de samenwerkingsafspraak beëindigen door de andere partij daarvan op de hoogte te stellen.
+
 Als lid heb je de plicht om je gedrag in overeenstemming te brengen met de vastgelegde samenwerkingsafspraken die je hebt gemaakt. Iedereen die een overleg of een proces van de organisatie faciliteert mag deze samenwerkingsafspraken handhaven, zo lang ze niet in strijd zijn met bepalingen in deze spelregels.
 
-Artikel 3: Werkoverleggen
+# Artikel 3: Werkoverleggen
 Elk lid mag een “Werkoverleg” organiseren om leden te helpen een beroep te doen op elkaars verantwoordelijkheden en verplichtingen. Daarnaast is de Secretaris van elke cirkel verantwoordelijk voor het plannen van regelmatige Werkoverleggen voor de cirkel.
 
-3.1 Aanwezigheid
+## 3.1 Aanwezigheid
 Voor de regelmatige Werkoverleggen die door de Secretaris van de cirkel worden georganiseerd zijn alle rollen van de cirkel uitgenodigd, tenzij een werkafspraak iets anders bepaalt. Voor andere Werkoverleggen moet het lid die ze organiseert aangeven welke rollen uitgenodigd zijn. Alle leden die Rol-Lead zijn van de genodigde rollen hebben het recht om deel te nemen en die rollen te vertegenwoordigen, tenzij de organisator de uitnodiging beperkt tot een deel van de Rol-Leads van een rol.
 
-3.2 Werkoverleg vorm
+##3.2 Werkoverleg vorm
 De Facilitator van een cirkel is verantwoordelijk voor het faciliteren van de regelmatige Werkoverleggen van de cirkel en de Secretaris voor het vastleggen en delen van de uitkomsten van het Werkoverleg. Voor Werkoverleggen die worden georganiseerd door iemand anders dan de Secretaris van een cirkel moet dat lid die het organiseert ze faciliteren en de uitkomsten vastleggen, of daar een vrijwilliger of passende rol voor zoeken.
+
 Tenzij een werkafspraak iets anders bepaalt moet de persoon die het overleg faciliteert het volgende proces volgen:
-check-in: Elke deelnemer deelt een voor een zijn of haar huidige gemoedstoestand of een andere opmerking om bewust aanwezig te kunnen zijn bij het overleg. Reacties zijn niet toegestaan.
-terugkerende taken: Taken waar hij of zij regelmatig over rapporteert voor zijn of haar rollen  in het overleg. Elke deelnemer deelt of terugkerende taken gedaan zijn.
-indicatoren: Elke deelnemer deelt indicatoren waar hij of zij regelmatig over rapporteert voor zijn of haar rollen in het overleg.
-voortgangs-updates: Elke deelnemer deelt voortgang in projecten of andere initiatieven waar hij of zij regelmatig over rapporteert voor zijn of haar rollen in het overleg. Deelnemers delen alleen de voortgang die gemaakt is sinds een vorige update, en niet de algemene stand van zaken.
-agenda-opbouw: Deelnemers stellen een agenda op van de in het overleg te behandelen punten. Elke deelnemer mag zoveel agendapunten toevoegen als hij of zij wil. Een agendapunt wordt toegevoegd door een of twee steekwoorden te geven. Toelichting of discussie zijn niet toegestaan. Deelnemers mogen na deze stap nog extra agendapunten toevoegen tussen de behandeling van bestaande agendapunten door.
-agendapunten behandelen: Om een agendapunt te behandelen mag de eigenaar van het agendapunt verzoeken doen aan andere deelnemers in hun hoedanigheid als lid of in een rol die zij vertegenwoordigen in het overleg. Verzoeken aan een rol mogen alleen gedaan worden vanuit jouw rol(len) in die cirkel. De facilitator bewaakt de tijd en maakt tijds-management bespreekbaar.
-check-out: Elke deelnemer deelt een voor een zijn of haar reflectie op het overleg. Reacties zijn niet toegestaan.
+1.check-in: Elke deelnemer deelt een voor een zijn of haar huidige gemoedstoestand of een andere opmerking om bewust aanwezig te kunnen zijn bij het overleg. Reacties zijn niet toegestaan.
+2. terugkerende taken: Taken waar hij of zij regelmatig over rapporteert voor zijn of haar rollen  in het overleg. Elke deelnemer deelt of terugkerende taken gedaan zijn.
+3. indicatoren: Elke deelnemer deelt indicatoren waar hij of zij regelmatig over rapporteert voor zijn of haar rollen in het overleg.
+4. voortgangs-updates: Elke deelnemer deelt voortgang in projecten of andere initiatieven waar hij of zij regelmatig over rapporteert voor zijn of haar rollen in het overleg. Deelnemers delen alleen de voortgang die gemaakt is sinds een vorige update, en niet de algemene stand van zaken.
+5. agenda-opbouw: Deelnemers stellen een agenda op van de in het overleg te behandelen punten. Elke deelnemer mag zoveel agendapunten toevoegen als hij of zij wil. Een agendapunt wordt toegevoegd door een of twee steekwoorden te geven. Toelichting of discussie zijn niet toegestaan. Deelnemers mogen na deze stap nog extra agendapunten toevoegen tussen de behandeling van bestaande agendapunten door.
+6. agendapunten behandelen: Om een agendapunt te behandelen mag de eigenaar van het agendapunt verzoeken doen aan andere deelnemers in hun hoedanigheid als lid of in een rol die zij vertegenwoordigen in het overleg. Verzoeken aan een rol mogen alleen gedaan worden vanuit jouw rol(len) in die cirkel. De facilitator bewaakt de tijd en maakt tijds-management bespreekbaar.
+7. check-out: Elke deelnemer deelt een voor een zijn of haar reflectie op het overleg. Reacties zijn niet toegestaan.
 Een werkafspraak mag een alternatief proces beschrijven voor de Werkoverleggen die op initiatief van de rollen van een cirkel plaatsvinden of dit standaardproces wijzigen.
 
-Artikel 4: Gedistribueerde autoriteit
+# Artikel 4: Gedistribueerde autoriteit
 Als Rol-Lead ben je bevoegd om elke actie of elk besluit te nemen om het doel of verantwoordelijkheden van je rol te vervullen, mits je daarbij geen van de in deze spelregels beschreven regels overtreedt. Bij het prioriteren en kiezen van je mogelijke acties mag je zelf de relatieve waarde van elke actie voor de organisatie inschatten.
 
 4.1 Beperkingen van bevoegdheid
