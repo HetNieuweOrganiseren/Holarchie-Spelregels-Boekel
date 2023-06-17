@@ -42,42 +42,42 @@ Auteur; cirkel organisatie Ecodorp Boekel 2022
 
 ## [Artikel 3: Werkoverleggen](https://github.com/HetNieuweOrganiseren/Holarchie-Spelregels-Boekel/blob/main/Holarchie-Spelregels-Boekel.md#artikel-3-werkoverleggen-1)
 ### [3.1 Aanwezigheid](https://github.com/HetNieuweOrganiseren/Holarchie-Spelregels-Boekel/blob/main/Holarchie-Spelregels-Boekel.md#31-aanwezigheid-1)
-### [3.2 Werkoverleg vorm](
+### [3.2 Werkoverleg vorm](https://github.com/HetNieuweOrganiseren/Holarchie-Spelregels-Boekel/blob/main/Holarchie-Spelregels-Boekel.md#32-werkoverleg-vorm-1)
 
-## [Artikel 4: Gedistribueerde autoriteit](
-### [4.1 Beperkingen van bevoegdheid](
-#### [4.1.1 Overtreed geen werkafspraken](
-#### [4.1.2 Vraag toestemming voordat je invloed op een domein uitoefent](
-### [4.2 Bevoegdheid om te Interpreteren](
-#### [4.2.1 Interpretatie conflicten](
-#### [4.2.2 Schrappen van ongeldige besturing](
-### [4.3 Individueel initiatief](
-#### [4.3.1 Toegestane situaties](
-#### [4.3.2 Communicatie & herstel](
+## [Artikel 4: Gedistribueerde autoriteit](https://github.com/HetNieuweOrganiseren/Holarchie-Spelregels-Boekel/blob/main/Holarchie-Spelregels-Boekel.md#artikel-4-gedistribueerde-autoriteit-1)
+### [4.1 Beperkingen van bevoegdheid](https://github.com/HetNieuweOrganiseren/Holarchie-Spelregels-Boekel/blob/main/Holarchie-Spelregels-Boekel.md#41-beperkingen-van-bevoegdheid-1)
+#### [4.1.1 Overtreed geen werkafspraken](https://github.com/HetNieuweOrganiseren/Holarchie-Spelregels-Boekel/blob/main/Holarchie-Spelregels-Boekel.md#411-overtreed-geen-werkafspraken-1)
+#### [4.1.2 Vraag toestemming voordat je invloed op een domein uitoefent](https://github.com/HetNieuweOrganiseren/Holarchie-Spelregels-Boekel/blob/main/Holarchie-Spelregels-Boekel.md#412-vraag-toestemming-voordat-je-invloed-op-een-domein-uitoefent-1)
+### [4.2 Bevoegdheid om te Interpreteren](https://github.com/HetNieuweOrganiseren/Holarchie-Spelregels-Boekel/blob/main/Holarchie-Spelregels-Boekel.md#42-bevoegdheid-om-te-interpreteren-1)
+#### [4.2.1 Interpretatie conflicten](https://github.com/HetNieuweOrganiseren/Holarchie-Spelregels-Boekel/blob/main/Holarchie-Spelregels-Boekel.md#421-interpretatie-conflicten-1)
+#### [4.2.2 Schrappen van ongeldige besturing](https://github.com/HetNieuweOrganiseren/Holarchie-Spelregels-Boekel/blob/main/Holarchie-Spelregels-Boekel.md#422-schrappen-van-ongeldige-besturing-1)
+### [4.3 Individueel initiatief](https://github.com/HetNieuweOrganiseren/Holarchie-Spelregels-Boekel/blob/main/Holarchie-Spelregels-Boekel.md#43-individueel-initiatief-1)
+#### [4.3.1 Toegestane situaties](https://github.com/HetNieuweOrganiseren/Holarchie-Spelregels-Boekel/blob/main/Holarchie-Spelregels-Boekel.md#431-toegestane-situaties-1)
+#### [4.3.2 Communicatie & herstel](https://github.com/HetNieuweOrganiseren/Holarchie-Spelregels-Boekel/blob/main/Holarchie-Spelregels-Boekel.md#432-communicatie--herstel-1)
 
-## [Artikel 5: Het besturings-proces](
-### [5.1 Besturing-deelnemers](
-#### [5.1.1 Cirkel-Rep](
-#### [5.1.2 Facilitator & Secretaris](
-### [5.2 Speelruimte waarin je kunt besturen.](
-#### [5.2.1 Toepassing van Werkafspraken](
-### [5.3 Wijzigen van besturing](
-#### [5.3.1 Geldigheidscriteria voor voorstellen](
-#### [5.3.2 Geldigheid criteria voor bezwaren](
-#### [5.3.3 Toetsen van mogelijke bezwaren](
-#### [5.3.4 Regels van integratie](
-#### [5.3.5 Verkiezingsproces](
-#### [5.3.6 Vervanging van Facilitator & Secretaris](
-### [5.4 Roloverleggen](
-#### [5.4.1 Deelname](
-#### [5.4.2 Aankondiging & duur](
-#### [5.4.3 Overlegvorm](
-#### [5.4.4 Agenda-opbouw](
-#### [5.4.5 Besluitvormingsproces](
-### [5.5 Procesverstoring](
-#### [5.5.1 Verstoring door vastgelopen besturing](
-#### [5.5.2 Procesherstel](
-#### [5.5.3 Escalatie van een procesverstoring](
+## [Artikel 5: Het besturings-proces](https://github.com/HetNieuweOrganiseren/Holarchie-Spelregels-Boekel/blob/main/Holarchie-Spelregels-Boekel.md#artikel-5-het-besturings-proces-1)
+### [5.1 Besturing-deelnemers](https://github.com/HetNieuweOrganiseren/Holarchie-Spelregels-Boekel/blob/main/Holarchie-Spelregels-Boekel.md#51-besturing-deelnemers-1)
+#### [5.1.1 Cirkel-Rep](https://github.com/HetNieuweOrganiseren/Holarchie-Spelregels-Boekel/blob/main/Holarchie-Spelregels-Boekel.md#511-cirkel-rep-1)
+#### [5.1.2 Facilitator & Secretaris](https://github.com/HetNieuweOrganiseren/Holarchie-Spelregels-Boekel/blob/main/Holarchie-Spelregels-Boekel.md#512-facilitator--secretaris-1)
+### [5.2 Speelruimte waarin je kunt besturen.](https://github.com/HetNieuweOrganiseren/Holarchie-Spelregels-Boekel/blob/main/Holarchie-Spelregels-Boekel.md#52-speelruimte-waarin-je-kunt-besturen-1)
+#### [5.2.1 Toepassing van Werkafspraken](https://github.com/HetNieuweOrganiseren/Holarchie-Spelregels-Boekel/blob/main/Holarchie-Spelregels-Boekel.md#521-toepassing-van-werkafspraken-1)
+### [5.3 Wijzigen van besturing](https://github.com/HetNieuweOrganiseren/Holarchie-Spelregels-Boekel/blob/main/Holarchie-Spelregels-Boekel.md#53-wijzigen-van-besturing-1)
+#### [5.3.1 Geldigheidscriteria voor voorstellen](https://github.com/HetNieuweOrganiseren/Holarchie-Spelregels-Boekel/blob/main/Holarchie-Spelregels-Boekel.md#531-geldigheidscriteria-voor-voorstellen-1)
+#### [5.3.2 Geldigheid criteria voor bezwaren](https://github.com/HetNieuweOrganiseren/Holarchie-Spelregels-Boekel/blob/main/Holarchie-Spelregels-Boekel.md#532-geldigheid-criteria-voor-bezwaren-1)
+#### [5.3.3 Toetsen van mogelijke bezwaren](https://github.com/HetNieuweOrganiseren/Holarchie-Spelregels-Boekel/blob/main/Holarchie-Spelregels-Boekel.md#533-toetsen-van-mogelijke-bezwaren-1)
+#### [5.3.4 Regels van integratie](https://github.com/HetNieuweOrganiseren/Holarchie-Spelregels-Boekel/blob/main/Holarchie-Spelregels-Boekel.md#534-regels-van-integratie-1)
+#### [5.3.5 Verkiezingsproces](https://github.com/HetNieuweOrganiseren/Holarchie-Spelregels-Boekel/blob/main/Holarchie-Spelregels-Boekel.md#535-verkiezingsproces-1)
+#### [5.3.6 Vervanging van Facilitator & Secretaris](https://github.com/HetNieuweOrganiseren/Holarchie-Spelregels-Boekel/blob/main/Holarchie-Spelregels-Boekel.md#536-vervanging-van-facilitator--secretaris-1)
+### [5.4 Roloverleggen](https://github.com/HetNieuweOrganiseren/Holarchie-Spelregels-Boekel/blob/main/Holarchie-Spelregels-Boekel.md#54-roloverleggen-1)
+#### [5.4.1 Deelname](https://github.com/HetNieuweOrganiseren/Holarchie-Spelregels-Boekel/blob/main/Holarchie-Spelregels-Boekel.md#541-deelname-1)
+#### [5.4.2 Aankondiging & duur](https://github.com/HetNieuweOrganiseren/Holarchie-Spelregels-Boekel/blob/main/Holarchie-Spelregels-Boekel.md#542-aankondiging--duur-1)
+#### [5.4.3 Overlegvorm](https://github.com/HetNieuweOrganiseren/Holarchie-Spelregels-Boekel/blob/main/Holarchie-Spelregels-Boekel.md#543-overlegvorm-1)
+#### [5.4.4 Agenda-opbouw](https://github.com/HetNieuweOrganiseren/Holarchie-Spelregels-Boekel/blob/main/Holarchie-Spelregels-Boekel.md#544-agenda-opbouw-1)
+#### [5.4.5 Besluitvormingsproces](https://github.com/HetNieuweOrganiseren/Holarchie-Spelregels-Boekel/blob/main/Holarchie-Spelregels-Boekel.md#545-besluitvormingsproces-1)
+### [5.5 Procesverstoring](https://github.com/HetNieuweOrganiseren/Holarchie-Spelregels-Boekel/blob/main/Holarchie-Spelregels-Boekel.md#55-procesverstoring-1)
+#### [5.5.1 Verstoring door vastgelopen besturing](https://github.com/HetNieuweOrganiseren/Holarchie-Spelregels-Boekel/blob/main/Holarchie-Spelregels-Boekel.md#551-verstoring-door-vastgelopen-besturing-1)
+#### [5.5.2 Procesherstel](https://github.com/HetNieuweOrganiseren/Holarchie-Spelregels-Boekel/blob/main/Holarchie-Spelregels-Boekel.md#552-procesherstel-1)
+#### [5.5.3 Escalatie van een procesverstoring](https://github.com/HetNieuweOrganiseren/Holarchie-Spelregels-Boekel/blob/main/Holarchie-Spelregels-Boekel.md#553-escalatie-van-een-procesverstoring-1)
 
 **Vet gedrukt**: uitleg over een term die binnen holarchie wordt gebruikt
 *Schuin gedrukt*: verwijzing naar een artikel waar meer uitleg wordt gegeven.
