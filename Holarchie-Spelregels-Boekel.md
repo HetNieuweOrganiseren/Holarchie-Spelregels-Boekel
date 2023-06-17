@@ -11,7 +11,7 @@ Auteur; cirkel organisatie Ecodorp Boekel 2022
 
 ## [Voorwoord](https://github.com/HetNieuweOrganiseren/Holarchie-Spelregels-Boekel/blob/main/Holarchie-Spelregels-Boekel.md#voorwoord-1)
 
-## Artikel 1: De Organisatiestructuur
+## [Artikel 1: De Organisatiestructuur](https://github.com/HetNieuweOrganiseren/Holarchie-Spelregels-Boekel/blob/main/Holarchie-Spelregels-Boekel.md#artikel-1-de-organisatiestructuur-1)
 
 ### 1.1 Definitie van een rol
 ### 1.2 verantwoordelijkheden van Rol-Lead
