@@ -13,75 +13,74 @@ Auteur; cirkel organisatie Ecodorp Boekel 2022
 
 ## [Artikel 1: De Organisatiestructuur](https://github.com/HetNieuweOrganiseren/Holarchie-Spelregels-Boekel/blob/main/Holarchie-Spelregels-Boekel.md#artikel-1-de-organisatiestructuur-1)
 
-### 1.1 Definitie van een rol
-### 1.2 verantwoordelijkheden van Rol-Lead
-### 1.2.1 Het verwerken van spanningen
-### 1.2.2 Het verwerken van doel en verantwoordelijkheden.
-### 1.2.3 Opsplitsen van projecten
-### 1.2.4 Bijhouden van projecten, acties en spanningen
-### 1.2.5 Uitvoeren van acties
-### 1.3 Cirkels
-### 1.3.1 Het opsplitsen van rollen
-### 1.3.2 Het delegeren van domeinen
-### 1.3.3 Dorpscirkel
-### 1.3.4 Uitoefenen van jouw rol in een andere cirkel
-### 1.3.5 Facilitator & Secretaris rollen
-### 1.4 Cirkel-Lead
-#### 1.4.1 De toewijzing van rollen
-#### 1.4.2 Het neerleggen van rollen
-#### 1.4.3 Het vervullen van onvervulde rollen
-#### 1.4.4 Definiëren van prioriteiten & strategieën	8
-#### 1.4.5 Aanpassen van externe verwijzingen
-#### 1.4.6 Wijzigen van de Cirkel-Lead-rol
+### [1.1 Definitie van een rol](https://github.com/HetNieuweOrganiseren/Holarchie-Spelregels-Boekel/blob/main/Holarchie-Spelregels-Boekel.md#11-definitie-van-een-rol-1)
+### [1.2 verantwoordelijkheden van Rol-Lead](https://github.com/HetNieuweOrganiseren/Holarchie-Spelregels-Boekel/blob/main/Holarchie-Spelregels-Boekel.md#12-verantwoordelijkheden-van-rol-lead-1)
+### [1.2.1 Het verwerken van spanningen](https://github.com/HetNieuweOrganiseren/Holarchie-Spelregels-Boekel/blob/main/Holarchie-Spelregels-Boekel.md#121-het-verwerken-van-spanningen-1)
+### [1.2.2 Het verwerken van doel en verantwoordelijkheden.](https://github.com/HetNieuweOrganiseren/Holarchie-Spelregels-Boekel/blob/main/Holarchie-Spelregels-Boekel.md#122-het-verwerken-van-doel-en-verantwoordelijkheden-1)
+### [1.2.3 Opsplitsen van projecten](https://github.com/HetNieuweOrganiseren/Holarchie-Spelregels-Boekel/blob/main/Holarchie-Spelregels-Boekel.md#123-opsplitsen-van-projecten-1)
+### [1.2.4 Bijhouden van projecten, acties en spanningen](https://github.com/HetNieuweOrganiseren/Holarchie-Spelregels-Boekel/blob/main/Holarchie-Spelregels-Boekel.md#124-bijhouden-van-projecten-acties-en-spanningen-1)
+### [1.2.5 Uitvoeren van acties](https://github.com/HetNieuweOrganiseren/Holarchie-Spelregels-Boekel/blob/main/Holarchie-Spelregels-Boekel.md#125-uitvoeren-van-acties-1)
+### [1.3 Cirkels](https://github.com/HetNieuweOrganiseren/Holarchie-Spelregels-Boekel/blob/main/Holarchie-Spelregels-Boekel.md#13-cirkels-1)
+### [1.3.1 Het opsplitsen van rollen](https://github.com/HetNieuweOrganiseren/Holarchie-Spelregels-Boekel/blob/main/Holarchie-Spelregels-Boekel.md#131-het-opsplitsen-van-rollen-1)
+### [1.3.2 Het delegeren van domeinen](https://github.com/HetNieuweOrganiseren/Holarchie-Spelregels-Boekel/blob/main/Holarchie-Spelregels-Boekel.md#132-het-delegeren-van-domeinen-1)
+### [1.3.3 Dorpscirkel](https://github.com/HetNieuweOrganiseren/Holarchie-Spelregels-Boekel/blob/main/Holarchie-Spelregels-Boekel.md#133-dorpscirkel-1)
+### [1.3.4 Uitoefenen van jouw rol in een andere cirkel](https://github.com/HetNieuweOrganiseren/Holarchie-Spelregels-Boekel/blob/main/Holarchie-Spelregels-Boekel.md#134-uitoefenen-van-jouw-rol-in-een-andere-cirkel-1)
+### [1.3.5 Facilitator & Secretaris rollen](https://github.com/HetNieuweOrganiseren/Holarchie-Spelregels-Boekel/blob/main/Holarchie-Spelregels-Boekel.md#135-facilitator--secretaris-rollen-1)
+### [1.4 Cirkel-Lead](https://github.com/HetNieuweOrganiseren/Holarchie-Spelregels-Boekel/blob/main/Holarchie-Spelregels-Boekel.md#14-cirkel-lead-1)
+#### [1.4.1 De toewijzing van rollen](https://github.com/HetNieuweOrganiseren/Holarchie-Spelregels-Boekel/blob/main/Holarchie-Spelregels-Boekel.md#141-de-toewijzing-van-rollen-1)
+#### [1.4.2 Het neerleggen van rollen](https://github.com/HetNieuweOrganiseren/Holarchie-Spelregels-Boekel/blob/main/Holarchie-Spelregels-Boekel.md#142-het-neerleggen-van-rollen-1)
+#### [1.4.3 Het vervullen van onvervulde rollen](https://github.com/HetNieuweOrganiseren/Holarchie-Spelregels-Boekel/blob/main/Holarchie-Spelregels-Boekel.md#143-het-vervullen-van-onvervulde-rollen-1)
+#### [1.4.4 Definiëren van prioriteiten & strategieën](https://github.com/HetNieuweOrganiseren/Holarchie-Spelregels-Boekel/blob/main/Holarchie-Spelregels-Boekel.md#144-defini%C3%ABren-van-prioriteiten--strategie%C3%ABn)
+#### [1.4.5 Aanpassen van externe verwijzingen](https://github.com/HetNieuweOrganiseren/Holarchie-Spelregels-Boekel/blob/main/Holarchie-Spelregels-Boekel.md#145-aanpassen-van-externe-verwijzingen-1)
+#### [1.4.6 Wijzigen van de Cirkel-Lead-rol](https://github.com/HetNieuweOrganiseren/Holarchie-Spelregels-Boekel/blob/main/Holarchie-Spelregels-Boekel.md#146-wijzigen-van-de-cirkel-lead-rol-1)
 
-## Artikel 2: Regels voor samenwerking
-### 2.1 Recht op transparantie
-### 2.2 Behandelplicht
-### 2.3 Prioriteringsplicht
-### 2.4 Samenwerkingsafspraken
+## [Artikel 2: Regels voor samenwerking](https://github.com/HetNieuweOrganiseren/Holarchie-Spelregels-Boekel/blob/main/Holarchie-Spelregels-Boekel.md#artikel-2-regels-voor-samenwerking-1)
+### [2.1 Recht op transparantie](https://github.com/HetNieuweOrganiseren/Holarchie-Spelregels-Boekel/blob/main/Holarchie-Spelregels-Boekel.md#21-recht-op-transparantie-1)
+### [2.2 Behandelplicht](https://github.com/HetNieuweOrganiseren/Holarchie-Spelregels-Boekel/blob/main/Holarchie-Spelregels-Boekel.md#22-behandelplicht-1)
+### [2.3 Prioriteringsplicht](https://github.com/HetNieuweOrganiseren/Holarchie-Spelregels-Boekel/blob/main/Holarchie-Spelregels-Boekel.md#23-prioriteringsplicht-1)
+### [2.4 Samenwerkingsafspraken](https://github.com/HetNieuweOrganiseren/Holarchie-Spelregels-Boekel/blob/main/Holarchie-Spelregels-Boekel.md#24-samenwerkingsafspraken-1)
 
-## Artikel 3: Werkoverleggen
-### 3.1 Aanwezigheid
-### 3.2 Werkoverleg vorm
+## [Artikel 3: Werkoverleggen](https://github.com/HetNieuweOrganiseren/Holarchie-Spelregels-Boekel/blob/main/Holarchie-Spelregels-Boekel.md#artikel-3-werkoverleggen-1)
+### [3.1 Aanwezigheid](https://github.com/HetNieuweOrganiseren/Holarchie-Spelregels-Boekel/blob/main/Holarchie-Spelregels-Boekel.md#31-aanwezigheid-1)
+### [3.2 Werkoverleg vorm](
 
-## Artikel 4: Gedistribueerde autoriteit
-### 4.1 Beperkingen van bevoegdheid
-#### 4.1.1 Overtreed geen werkafspraken
-#### 4.1.2 Vraag toestemming voordat je invloed op een domein uitoefent
-### 4.2 Bevoegdheid om te Interpreteren
-#### 4.2.1 Interpretatie conflicten
-#### 4.2.2 Schrappen van ongeldige besturing
-### 4.3 Individueel initiatief
-#### 4.3.1 Toegestane situaties
-#### 4.3.2 Communicatie & herstel
+## [Artikel 4: Gedistribueerde autoriteit](
+### [4.1 Beperkingen van bevoegdheid](
+#### [4.1.1 Overtreed geen werkafspraken](
+#### [4.1.2 Vraag toestemming voordat je invloed op een domein uitoefent](
+### [4.2 Bevoegdheid om te Interpreteren](
+#### [4.2.1 Interpretatie conflicten](
+#### [4.2.2 Schrappen van ongeldige besturing](
+### [4.3 Individueel initiatief](
+#### [4.3.1 Toegestane situaties](
+#### [4.3.2 Communicatie & herstel](
 
-## Artikel 5: Het besturings-proces
-### 5.1 Besturing-deelnemers
-#### 5.1.1 Cirkel-Rep
-#### 5.1.2 Facilitator & Secretaris
-### 5.2 Speelruimte waarin je kunt besturen.
-#### 5.2.1 Toepassing van Werkafspraken
-### 5.3 Wijzigen van besturing
-#### 5.3.1 Geldigheidscriteria voor voorstellen
-#### 5.3.2 Geldigheid criteria voor bezwaren
-#### 5.3.3 Toetsen van mogelijke bezwaren
-#### 5.3.4 Regels van integratie
-#### 5.3.5 Verkiezingsproces
-#### 5.3.6 Vervanging van Facilitator & Secretaris
-### 5.4 Roloverleggen
-#### 5.4.1 Deelname
-#### 5.4.2 Aankondiging & duur
-#### 5.4.3 Overlegvorm
-#### 5.4.4 Agenda-opbouw
-#### 5.4.5 Besluitvormingsproces
-### 5.5 Procesverstoring
-#### 5.5.1 Verstoring door vastgelopen besturing
-#### 5.5.2 Procesherstel
-#### 5.5.3 Escalatie van een procesverstoring
+## [Artikel 5: Het besturings-proces](
+### [5.1 Besturing-deelnemers](
+#### [5.1.1 Cirkel-Rep](
+#### [5.1.2 Facilitator & Secretaris](
+### [5.2 Speelruimte waarin je kunt besturen.](
+#### [5.2.1 Toepassing van Werkafspraken](
+### [5.3 Wijzigen van besturing](
+#### [5.3.1 Geldigheidscriteria voor voorstellen](
+#### [5.3.2 Geldigheid criteria voor bezwaren](
+#### [5.3.3 Toetsen van mogelijke bezwaren](
+#### [5.3.4 Regels van integratie](
+#### [5.3.5 Verkiezingsproces](
+#### [5.3.6 Vervanging van Facilitator & Secretaris](
+### [5.4 Roloverleggen](
+#### [5.4.1 Deelname](
+#### [5.4.2 Aankondiging & duur](
+#### [5.4.3 Overlegvorm](
+#### [5.4.4 Agenda-opbouw](
+#### [5.4.5 Besluitvormingsproces](
+### [5.5 Procesverstoring](
+#### [5.5.1 Verstoring door vastgelopen besturing](
+#### [5.5.2 Procesherstel](
+#### [5.5.3 Escalatie van een procesverstoring](
 
 **Vet gedrukt**: uitleg over een term die binnen holarchie wordt gebruikt
 *Schuin gedrukt*: verwijzing naar een artikel waar meer uitleg wordt gegeven.
-HOOFDLETTERS: tekst met meer nadruk.
 
 # Voorwoord
 De leden accepteren deze spelregels als de formele structuur voor het ecodorp. Wat betekent dat de leden hun bevoegdheid ontlenen aan de regels en processen hieronder beschreven. De leden mogen deze spelregels op elk moment aanpassen of verwerpen mits er geen bezwaar is en zolang de aanpassingen maar wel in dit document geschreven worden. De leden mogen een initiële structuur, werkafspraken en domeinen bepalen bij het aannemen van deze spelregels.
@@ -262,7 +261,7 @@ Elk lid mag een “Werkoverleg” organiseren om leden te helpen een beroep te d
 ## 3.1 Aanwezigheid
 Voor de regelmatige Werkoverleggen die door de Secretaris van de cirkel worden georganiseerd zijn alle rollen van de cirkel uitgenodigd, tenzij een werkafspraak iets anders bepaalt. Voor andere Werkoverleggen moet het lid die ze organiseert aangeven welke rollen uitgenodigd zijn. Alle leden die Rol-Lead zijn van de genodigde rollen hebben het recht om deel te nemen en die rollen te vertegenwoordigen, tenzij de organisator de uitnodiging beperkt tot een deel van de Rol-Leads van een rol.
 
-##3.2 Werkoverleg vorm
+## 3.2 Werkoverleg vorm
 De Facilitator van een cirkel is verantwoordelijk voor het faciliteren van de regelmatige Werkoverleggen van de cirkel en de Secretaris voor het vastleggen en delen van de uitkomsten van het Werkoverleg. Voor Werkoverleggen die worden georganiseerd door iemand anders dan de Secretaris van een cirkel moet dat lid die het organiseert ze faciliteren en de uitkomsten vastleggen, of daar een vrijwilliger of passende rol voor zoeken.
 
 Tenzij een werkafspraak iets anders bepaalt moet de persoon die het overleg faciliteert het volgende proces volgen:
