@@ -9,7 +9,7 @@ Auteur; cirkel organisatie Ecodorp Boekel 2022
 
 # Inhoud
 
-## Voorwoord
+## [Voorwoord](https://github.com/HetNieuweOrganiseren/Holarchie-Spelregels-Boekel/blob/main/Holarchie-Spelregels-Boekel.md#voorwoord-1_)
 
 ## Artikel 1: De Organisatiestructuur
 
